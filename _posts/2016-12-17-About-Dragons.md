@@ -2,7 +2,7 @@
 layout: post
 title: About the dragons
 thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerThree.png
-excerpt: We love to run
+excerpt: From beginners to (a bit more) serious runners, Dragons Running club meets every Tuesday and Thursday at 6:30 pm at LA Fitness Brooklands (in the bar)
 ---
 
 ### Welcome 1
