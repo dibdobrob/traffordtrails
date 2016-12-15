@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="posts">
+<div class="content full-bleed" id="recent-posts">
         
 {% for album in site.runs limit:3 %}
         <img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
@@ -11,4 +12,6 @@ layout: default
   <p>{{ album.short-description }}</p>
         <br>
 {% endfor %}
-     
+        
+</div>
+</div>
