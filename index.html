@@ -5,15 +5,17 @@ layout: default
 <div class="posts">
 <div class="content full-bleed" id="recent-posts">
         
-{% for album in site.runs limit:3 %}
-        <img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
+{% for runs in site.runs limit:3 %}
+        <img src="{{ runs.thumbnail-path }}" alt="{{ runs.title }}"/>
         <a href="{{ site.baseurl }}{{ album.url }}">{{ album.title }}</a>     
   
   <p>{{ album.short-description }}</p>
         <br>
 {% endfor %}
-        
-</div>
+        <div class="breaker"></div>
+    <div class="end">
+     </div>
+</div>   
 </div>
 
 <script type="text/javascript">
