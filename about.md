@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-![_config.yml](/images/three.png "_config.yml")
+![_config.yml](/images/Three.png "_config.yml")
 
 ### More Information
 
