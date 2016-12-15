@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: About the dragons
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+From beginners to (a bit more) serious runners, Dragons Running club meets every Tuesday and Thursday at 6:30 pm at LA Fitness Brooklands (in the bar)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Training
+
+Tuesday sessions are 5k and Thursday sessions a bit longer, from 10k up to around 10 miles.We also meet for extra training runs and/or races most weekends.
+
+Socialising
+
+It's not just about the running either, as the social section of our club organises nights out and weekends away, including running holidays abroad - probably more frequent than our races.
