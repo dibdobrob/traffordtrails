@@ -1,7 +1,8 @@
 ---
 layout: post
 title: About the dragons
-thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/Three.png
+thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerThree.png
+excerpt: We love to run
 ---
 
 ### Welcome 1
