@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About the dragons
+thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/Three.png
 ---
 
 ### Welcome 1
