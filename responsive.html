@@ -13,6 +13,8 @@ title: Dragons Running Club
                         <li> 
                         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                         <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
+                        <span class="body">{{ post.excerpt | strip_html }}</span>
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
                         </li>
                 </article>
          {% endfor %}
