@@ -10,7 +10,10 @@ title: Dragons Running Club
     <ul>
         {% for post in site.posts %}
                 <article class="post">
-                <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                        <li> 
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                        <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
+                        </li>
                 </article>
          {% endfor %}
     </ul>
