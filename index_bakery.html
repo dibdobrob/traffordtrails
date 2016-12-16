@@ -4,8 +4,10 @@ hero_text: Dragons Running Club
 title: Dragons Running Club
 ---
 <div class="container">
-  <p class="post-hero center-text spacing">Bakery<strong>Store</strong> is known for our fresh bread, delicious cupcakes and chocolatey cookies.</p>
+  <p class="post-hero center-text spacing">Bakery Store is known for our fresh bread, delicious cupcakes and chocolatey cookies.</p>
 </div>
+
+
 <div class="container">
   <div class="columns spacing">
     <div class="column half">
@@ -16,6 +18,10 @@ title: Dragons Running Club
       <p>Our bread is baked fresh every morning.</p>
     </div>
   </div>
+  
+  
+  
+  
   <div class="columns spacing">
     <div class="column half">
       <h3>Delicious Cupcakes</h3>
@@ -38,16 +44,28 @@ title: Dragons Running Club
 
 
 
+
+
  <div class="posts">
    {% for post in site.posts %}
-     <article class="post">
-  
+     
+   <div class="container">
+  <div class="columns spacing">
+    <div class="column half">
+     
+   <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-     
-      <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
-     
+       <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
         <span class="body">{{ post.excerpt | strip_html }}</span>
-  
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
+      
+    </div>
+    <div class="column half">
+      <h3>a title</h3>
+      <p>A piece of text.</p>
+    </div>
+  </div>
+      
+      
     {% endfor %}
