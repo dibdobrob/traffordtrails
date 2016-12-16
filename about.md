@@ -4,14 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Contact us
 
-![_config.yml](/images/Three.png "_config.yml")
+[dragons.running.club@gmail.com](dragons.running.club@gmail.com)
+https://www.facebook.com/groups/dragonsrunners/
 
-### More Information
+You might also want to check out or FAQ page which aims to answer the most common questions sent to us via email.
 
-A place to include any other types of information that you'd like to include about yourself.
+Alternatively join us for a chat (and run) on a club night at 18:30 (Tue & Thur) in the bar area at LA Fitness (formally Dragons gym) in Brooklands.
 
-### Contact me
+LA Fitness, 
+Georges Road, 
+Brooklands,
+Sale,
+Cheshire M33 3NL
 
-[email@domain.com](mailto:email@domain.com)
+You can also find us on facebook @ 
