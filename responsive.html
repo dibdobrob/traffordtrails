@@ -4,7 +4,24 @@ hero_text: Dragons Running Club
 title: Dragons Running Club
 ---
 
-<div class="row">
+<div class="row"> 
+        
+        <div class="col-1 menu"></div>
+        
+         <div class="col-6 menu">
+    <ul>
+        {% for post in site.posts %}
+                <article class="post">
+                        <li> 
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                        <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
+                        <span class="body">{{ post.excerpt | strip_html }}</span>
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+                        </li>
+                </article>
+         {% endfor %}
+    </ul>
+    </div>
         
     <div class="col-6 menu">
     <ul>
