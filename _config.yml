@@ -18,7 +18,6 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Adds collections
 collections:
   - topics:
-     output: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
