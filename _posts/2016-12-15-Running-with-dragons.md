@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running with the Dragons
-thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerOne.png
+thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerEight.jpg
 excerpt: We get together at least twice a week, on Tuesdays for a 5km and Thursdays for a 10km.
 ---
 
