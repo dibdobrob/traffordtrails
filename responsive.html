@@ -45,17 +45,9 @@ title: Dragons Running Club
         {% for post in site.posts %}
                 <article class="post">
                         <li> 
-                                
-          
                                 <section class="page-brief" style="background-image:url('{{ post.thumbnail-path }}')">  
-                               
-                                <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
-                                <p class="sub-text">Make friends, stay fit and have fun!</p>
                                 <p class="sub-text">{{ post.excerpt | strip_html }}</p>
-                            
                                 </section>
-
-         
                         </li>
                 </article>
          {% endfor %}
