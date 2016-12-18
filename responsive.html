@@ -39,15 +39,23 @@ title: Dragons Running Club
     </div>
    
 
+             
 <div class="col-6 menu">
     <ul>
         {% for post in site.posts %}
                 <article class="post">
                         <li> 
-                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                        <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
-                        <span class="body">{{ post.excerpt | strip_html }}</span>
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+                                
+                                
+                                <section class="hero">
+                                <div class="small-container">
+                                <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
+                                <p class="sub-text">Make friends, stay fit and have fun!</p>
+                                <p class="sub-text">{{ post.excerpt | strip_html }}</p>
+                                 </div>
+                                </section>
+
+         
                         </li>
                 </article>
          {% endfor %}
