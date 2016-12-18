@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Frequently asked questions
+title: FAQ
 thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerFive.jpg
-excerpt: It is very seldom that we get someone who just turns up for the first time without having asked us a few questions via email before their first run, as a result we have collated some of the more frequently asked questions and provided some answers.......
-label:topics
-importance:low
+excerpt: A club is nothing without its members, find out a little bit more about who we are.
+label: topics
+importance: high
 ---
 
 FAQs
