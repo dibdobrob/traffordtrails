@@ -5,7 +5,7 @@ layout: default
 <div class="posts">
 
         
-{% for topic in site.topics %}
+{% for topic in site.topics  | where:"importance","high"  %}
   
 <p>{{ topic.title }}</p>
 
