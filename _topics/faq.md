@@ -24,7 +24,7 @@ This question comes in a variety of ways,
 
 Answer: No one is too slow (or too fast), on a Tuesday night we have runners finishing the 5km route anywhere between 20 minutes and 40 minutes and our back runner (a.k.a., responsible adult) will always keep the slower runners company at the back and offer general good banter and kind words of encouragement. 
 
-The key thing here is that you can finish a 5km run, so all we would ask if you are brand new to running is that you bring yourself up to a level of fitness whereby you can complete a 5km run before coming out on a club run. NHS Schemes such as ‘Couch to 5km’ are absolutely fantastic to give you that basic level of fitness.
+### The key thing here is that you can finish a 5km run, so all we would ask if you are brand new to running is that you bring yourself up to a level of fitness whereby you can complete a 5km run before coming out on a club run. NHS Schemes such as ‘Couch to 5km’ are absolutely fantastic to give you that basic level of fitness.
 
 ### At what point do I need to become a Club member?
 
