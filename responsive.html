@@ -40,7 +40,7 @@ title: Dragons Running Club
    
 
              
-<div class="col-6 menu">
+    <div class="col-6 menu">
     <ul>
         {% for post in site.posts %}
                 <article class="post">
@@ -54,7 +54,24 @@ title: Dragons Running Club
          {% endfor %}
     </ul>
     </div>
+        
+         <div class="col-6 menu">
+    <ul>
+        {% for post in site.posts %}
+                <article class="post">
+                        <li>   
+                                <div class="image">
+                                <img src="{{ post.thumbnail-path }}" alt="" />
+                                <p class="img-headline">{{ post.title }}</p>
+                                </div>
+                        </li>
+                </article>
+         {% endfor %}
+    </ul>
+    </div>
 
+        
+        
 </div>
 
 <div class="footer">
