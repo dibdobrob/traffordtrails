@@ -65,6 +65,10 @@ section.hero {
   background-size: cover;
 }
 
+section.page-brief {
+  color: #fff;
+}
+
 p.post-hero {
   width: 80%;
   margin: 0 auto;
