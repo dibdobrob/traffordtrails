@@ -3,7 +3,7 @@ layout: post
 title: Our Team
 thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerFour.jpg
 excerpt: A club is nothing without its members, find out a little bit more about who we are.
-label: collections
+label: topics
 importance: high
 ---
 
