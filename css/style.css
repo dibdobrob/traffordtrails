@@ -89,12 +89,17 @@ p.headline {
 }
 
 p.img-headline { 
-   font-family: "Source Sans Pro", sans-serif; 
-   position: absolute; 
-   bottom: 15px; 
-   left: 15px;
-   font-size: 15px;
-   width: 100%; 
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    font-size: 14pt;
+    padding: 0.20em;
+    width: 100%;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: Arial,Helvetica,freesans,sans-serif;
+    line-height: 1.5;
+    background-color: rgba(0, 0, 0, 0.498039); 
 }
 
 header a,
