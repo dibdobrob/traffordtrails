@@ -36,16 +36,6 @@ h3 {
   margin: 15px 0;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-.image { 
-   position: relative; 
-   width: 100%; /* for IE 6 */
-}
-
 div.container,
 div.small-container {
   margin: 0 auto;
@@ -58,6 +48,11 @@ div.container {
 
 div.small-container {
   max-width: 700px;
+}
+
+div.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
 }
 
 header,
