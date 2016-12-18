@@ -64,6 +64,7 @@ title: Dragons Running Club
                                 <img src="{{ post.thumbnail-path }}" alt="" />
                                 <p class="img-headline">{{ post.title }}</p>
                                 </div>
+                                <p class="headline">{{ post.excerpt | strip_html }}</p>
                         </li>
                 </article>
          {% endfor %}
