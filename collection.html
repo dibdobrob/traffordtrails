@@ -5,12 +5,12 @@ layout: default
 <div class="posts">
 <div class="content full-bleed" id="recent-posts">
         
-{% for runs in site.topics limit:3 %}
-        <img src="{{ topics.thumbnail-path }}" alt="{{ topics.title }}"/>
-        <a href="{{ site.baseurl }}{{ topics.url }}">{{ topics.title }}</a>     
+{% for topic in site.topics limit:10}
+        <img src="{{ topic.thumbnail-path }}" alt="{{ topic.title }}"/>
+        <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a>     
   
   <p>{{ topics.short-description }}</p>
-        <br>{{ topics.title }}, {{ topics.label }}
+        <br>{{ topic.title }}, {{ topic.label }}
 {% endfor %}
         <div class="breaker"></div>
     <div class="end">
