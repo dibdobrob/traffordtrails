@@ -5,10 +5,20 @@ layout: default
 <div class="posts">
 
 {% assign importanttopics = site.topics | where:"importance","high" %}     
-{% for topic in importanttopics %}
+{% assign lowtopics = site.topics | where:"importance","low" %} 
+  
+  important topics <br/>
+  
+  {% for topic in importanttopics %}
   
 <p>{{ topic.title }}</p>
 
+  Not important topics <br/>
+  
+  {% for topic in lowtopics %}
+  
+<p>{{ topic.title }}</p>
+  
 {% endfor %}
      
 </div>
