@@ -8,55 +8,24 @@ title: Dragons Running Club
         
         <div class="col-1 menu"></div>
         
-         <div class="col-6 menu">
-    <ul>
-        {% for post in site.posts %}
-                <article class="post">
-                        <li> 
-                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                        <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
-                        <p class="headline">{{ post.excerpt | strip_html }}</p>
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-                        </li>
-                </article>
-         {% endfor %}
-    </ul>
-    </div>
-        
-    <div class="col-6 menu">
-    <ul>
-        {% for post in site.posts %}
-                <article class="post">
-                        <li> 
-                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                        <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
-                        <span class="body">{{ post.excerpt | strip_html }}</span>
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-                        </li>
-                </article>
-         {% endfor %}
-    </ul>
-    </div>
-   
-
-             
-    <div class="col-6 menu">
-    <ul>
+        <div class="col-6 menu">
+        <ul>
         {% for post in site.posts %}
                 <article class="post">
                         <li>   
                                 <div class="image">
                                 <img src="{{ post.thumbnail-path }}" alt="" />
-                                <h2>A Movie in the Park 3</h2>
+                                <p class="img-headline">{{ post.title }}</p>
                                 </div>
+                                <p class="headline">{{ post.excerpt | strip_html }}</p>
                         </li>
                 </article>
-         {% endfor %}
-    </ul>
-    </div>
+        {% endfor %}
+        </ul>
+        </div>
         
-         <div class="col-6 menu">
-    <ul>
+        <div class="col-6 menu">
+        <ul>
         {% for post in site.posts %}
                 <article class="post">
                         <li>   
@@ -70,9 +39,7 @@ title: Dragons Running Club
          {% endfor %}
     </ul>
     </div>
-
-        
-        
+     
 </div>
 
 <div class="footer">
