@@ -57,7 +57,7 @@ div.small-container {
 
 div.image { 
    position: relative; 
-   width: 100%; /* for IE 6 */
+   max-width: 100%; /* for IE 6 */
 }
 
 header,
