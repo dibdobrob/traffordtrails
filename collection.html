@@ -4,8 +4,8 @@ layout: default
 
 <div class="posts">
 
-        
-{% for topic in site.topics  | where:"importance","high"  %}
+{% assign importanttopics = site.topics | where:"importance","high" %}     
+{% for topic in importanttopics %}
   
 <p>{{ topic.title }}</p>
 
