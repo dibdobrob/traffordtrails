@@ -3,6 +3,9 @@ layout: post
 title: Becoming a Dragon (Membership)
 thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerSix.jpg
 excerpt: After a few runs with the club we encourage everyone to formally join the club and take advantage of the perks of being a fully fledged dragon.
+label: topics
+importance: high
+sequence: 2
 ---
 
 
