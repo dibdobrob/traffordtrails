@@ -1,23 +1,35 @@
 ---
 layout: post
-title: About the dragons
+title: Our community
 thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerNine.jpg
-excerpt: From beginners to (a bit more) serious runners, Dragons Running club meets every Tuesday and Thursday at 6:30 pm at LA Fitness Brooklands (in the bar)
+excerpt: We are more than a club, we are a community and we believe that as a community we can inspire our members to live healthier and more socially enriched lives.
 label: topics
 importance: high
 sequence: 1
 ---
 
-### Welcome
+### Our purpose
 
-From beginners to (a bit more) serious runners, Dragons Running club meets every Tuesday and Thursday at 6:30 pm at LA Fitness Brooklands (in the bar)
+We are more than a club, we are a community and we believe that as a community we can inspire our members to live healthier and more socially enriched lives.
 
-Come and join us! If you're just starting out as a runner, don't worry, no-one gets left behind on our sessions, as one of our more experienced runners will always run at the pace of the slowest runner on the day. Equally, we will always have a faster front section to train with, all the way up to marathon distance. We have over 50 members and are affiliated to England Athletics.
+### We do that by,
 
-### Training
+Providing runners of all abilities with a safe environment and the emotional support they need to motivate them to start running, keep running and get better at running.
 
-Tuesday sessions are 5k and Thursday sessions a bit longer, from 10k up to around 10 miles.We also meet for extra training runs and/or races most weekends.
+### We achieve this in a multitude of ways, 
 
-### Socialising
+- We run together every Tuesday and Thursday night at 6.30pm (Find out more here… <run with us>)
+- We thrive as a social community on facebook and twitter
+- We meet at park runs and support each other whether as runners, timekeepers or marshals 
+- We travel to races together and wear our club kit with pride as we cheer each other on
+- We meet for meals, beers, wine and laughter
+- We invade foreign lands such as Madrid, Paris and Berlin tackling races as a team and with our families
+- We also meet in smaller groups several times a week to run on a slightly more adhoc basis
 
-It's not just about the running either, as the social section of our club organises nights out and weekends away, including running holidays abroad - probably more frequent than our races.
+### Our history
+
+No one knows quite when we began but it was definitely a long long time ago, probably at a bar and it is almost certain that no one expected the club to become the successful 80+ strong community of runners that it is today.
+
+Before the days of ‘Facebook’ and ‘What’s app’ we communicated mainly via carrier pigeon and in those days we were quite small. As our facebook group has become more popular, so has our club and today we exist as much online as we do on the pavements and gravel tracks of Sale and surrounding neighborhoods. 
+
+Over the years faces have changed, some have gone, some have arrived but no matter what, The spirit of the fledglings lives on!!
