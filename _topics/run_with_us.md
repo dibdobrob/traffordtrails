@@ -3,6 +3,9 @@ layout: post
 title: Running with the Dragons
 thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerEight.jpg
 excerpt: We get together at least twice a week, on Tuesdays for a 5km and Thursdays for a 10km.
+label: topics
+importance: high
+sequence: 3
 ---
 
 We try to keep our runs varied and will mix it up week on week with a different but well trodden route from a list of favorites which usually follow circular routes looping towards places like Ashton on Mersey, Timperly & Altrincham.
