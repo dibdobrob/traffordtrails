@@ -20,7 +20,8 @@ title: Dragons Running Club
                                 <img src="{{ topic.thumbnail-path }}" alt="" />
                                 <p class="img-headline">{{ topic.title }}</p>
                                 </div>
-                                <p class="headline">{{ topic.excerpt | strip_html }}</p>
+                                <p class="headline">{{ topic.excerpt | strip_html }}, 
+                                <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p>
                         </li>
                 </article>
         {% endfor %}
@@ -36,7 +37,8 @@ title: Dragons Running Club
                                 <img src="{{ topic.thumbnail-path }}" alt="" />
                                 <p class="img-headline">{{ topic.title }}</p>
                                 </div>
-                                <p class="headline">{{ topic.excerpt | strip_html }}</p>
+                                <p class="headline">{{ topic.excerpt | strip_html }}, 
+                                <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p>
                         </li>
                 </article>
          {% endfor %}
