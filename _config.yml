@@ -19,6 +19,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 collections:
   topics:
   output: true
+  permalink: /_topics/:path.md
+  
 
 # Includes an icon in the footer for each username you enter
 footer-links:
