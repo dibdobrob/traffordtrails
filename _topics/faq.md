@@ -5,6 +5,7 @@ thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerFive
 excerpt: A club is nothing without its members, find out a little bit more about who we are.
 label: topics
 importance: low
+sequence: 1
 ---
 
 FAQs
