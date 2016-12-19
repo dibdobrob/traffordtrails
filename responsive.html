@@ -4,20 +4,23 @@ hero_text: Dragons Running Club
 title: Dragons Running Club
 ---
 
+{% assign top_topics = site.topics | where:"importance","high"  | sort: 'sequence' %}     
+{% assign bottom_topics = site.topics | where:"importance","low"  | sort: 'sequence' %} 
+
 <div class="row"> 
         
         <div class="col-1 menu"></div>
         
         <div class="col-6 menu">
         <ul>
-        {% for post in site.posts %}
+        {% for topic in top_topics %}
                 <article class="post">
                         <li>   
                                 <div class="image">
-                                <img src="{{ post.thumbnail-path }}" alt="" />
-                                <p class="img-headline">{{ post.title }}</p>
+                                <img src="{{ topic.thumbnail-path }}" alt="" />
+                                <p class="img-headline">{{ topic.title }}</p>
                                 </div>
-                                <p class="headline">{{ post.excerpt | strip_html }}</p>
+                                <p class="headline">{{ topic.excerpt | strip_html }}</p>
                         </li>
                 </article>
         {% endfor %}
@@ -26,14 +29,14 @@ title: Dragons Running Club
         
         <div class="col-6 menu">
         <ul>
-        {% for post in site.posts %}
+       {% for topic in top_topics %}
                 <article class="post">
                         <li>   
                                 <div class="image">
-                                <img src="{{ post.thumbnail-path }}" alt="" />
-                                <p class="img-headline">{{ post.title }}</p>
+                                <img src="{{ topic.thumbnail-path }}" alt="" />
+                                <p class="img-headline">{{ topic.title }}</p>
                                 </div>
-                                <p class="headline">{{ post.excerpt | strip_html }}</p>
+                                <p class="headline">{{ topic.excerpt | strip_html }}</p>
                         </li>
                 </article>
          {% endfor %}
