@@ -4,14 +4,14 @@ layout: default
 
 <div class="posts">
 
-{% assign importanttopics = site.topics | where:"importance","high" %}     
-{% assign lowtopics = site.topics | where:"importance","low" %} 
+{% assign importanttopics = site.topics | where:"importance","high"  | sort: 'sequence' %}     
+{% assign lowtopics = site.topics | where:"importance","low"  | sort: 'sequence' %} 
   
   important topics <br/>
   
   {% for topic in importanttopics %}
   
-<p>{{ topic.title }}</p>
+<p>{{ topic.sequence }} - {{ topic.title }}</p>
 
   {% endfor %}
 
@@ -19,7 +19,7 @@ layout: default
   
 {% for topic in lowtopics %}
   
-<p>{{ topic.title }}</p>
+<p>{{ topic.sequence }} - {{ topic.title }}</p>
   
 {% endfor %}
      
