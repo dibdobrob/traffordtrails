@@ -305,6 +305,10 @@ html {
     padding: 15px;
 }
 
+.footer_link {
+    color: #fff;
+}
+
 /* For desktop: */
 .col-1 {width: 10%;}
 .col-2 {width: 16.66%;}
