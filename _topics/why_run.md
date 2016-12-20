@@ -10,6 +10,7 @@ sequence: 3
 
 BENEFITS OF A RUNNING GROUP
 Below are five benefits to running with a group. I’d love to hear your thoughts, so leave them in the comments below.
+ 
  #1. Accountability
 
 Running groups hold you accountable when that little voice in your head tries to convince you to skip the run. When there are others counting on you, you’re more likely to show up. One of the biggest reasons people stop running is because they lack this accountability.
