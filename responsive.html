@@ -4,8 +4,8 @@ hero_text: Dragons Running Club
 title: Dragons Running Club
 ---
 
-{% assign top_topics = site.topics | where:"importance","high"  | sort: 'sequence' %}     
-{% assign bottom_topics = site.topics | where:"importance","low"  | sort: 'sequence' %} 
+{% assign top_topics = site.posts | where:"importance","high"  | sort: 'sequence' %}     
+{% assign bottom_topics = site.posts | where:"importance","low"  | sort: 'sequence' %} 
 
 <div class="row"> 
         
