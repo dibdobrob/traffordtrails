@@ -290,7 +290,7 @@ html {
     font-size: 12px;
     padding: 15px;
     vertical-align: middle;
-    height: 50px;
+    height: 60px;
 }
 
 .footer_call_to_action {
@@ -298,9 +298,9 @@ html {
     color: #ffffff;
     text-align: center;
     font-size: 12px;
-    padding: 15px;
+    padding: 25px;
     vertical-align: middle;
-    height: 50px;
+    height: 60px;
 }
 
 .footer_link {
