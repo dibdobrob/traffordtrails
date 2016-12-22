@@ -60,12 +60,6 @@ div.image {
    max-width: 100%; /* for IE 6 */
 }
 
-header,
-footer {
-  background: #1D1D1D;
-  color: #ffffff;
-}
-
 section.hero {
   color: #fff;
   background-image: url('https://robertwadsworth.github.io/dragons-beta/images/runnerThree.png');
@@ -111,10 +105,6 @@ footer a {
   color: #ffffff;
 }
 
-header
- {
-  padding: 10px 0;
-}
 
 nav.main-nav ul {
   margin: 0;
@@ -262,11 +252,13 @@ input[type="submit"] {
 html {
     font-family: "Lucida Sans", sans-serif;
 }
+
 .header {
-    background-color: #9933cc;
-    color: #ffffff;
-    padding: 40px;
+  background: #0099cc;
+  color: #ffffff;
+  padding: 15px;
 }
+
 .menu ul {
     list-style-type: none;
     margin: 0;
