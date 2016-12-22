@@ -309,6 +309,12 @@ html {
     color: #fff;
 }
 
+.svg-icon {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
 /* For desktop: */
 .col-1 {width: 10%;}
 .col-2 {width: 16.66%;}
@@ -329,4 +335,5 @@ html {
     .col-1 {width: 0%;}
     .col-6 {width: 100%;}
 }
+
 
