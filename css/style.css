@@ -291,21 +291,24 @@ html {
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
-.footer_call_to_action {
+.footer_links {
     background-color: #0099cc;
     color: #ffffff;
     text-align: center;
     font-size: 12px;
     padding: 15px;
     vertical-align: middle;
+    height: 50px;
 }
 
-.footer_links {
+.footer_call_to_action {
     background-color: #000000;
     color: #ffffff;
     text-align: center;
     font-size: 12px;
     padding: 15px;
+    vertical-align: middle;
+    height: 50px;
 }
 
 .footer_link {
