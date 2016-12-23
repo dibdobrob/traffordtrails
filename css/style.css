@@ -106,6 +106,7 @@ footer a {
 /*------------------ Top menu------------------- */
 
 nav.main-nav ul {
+  height: 60px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -118,9 +119,9 @@ nav.main-nav ul {
 nav.main-nav li,
 nav.main-nav a {
   display: inline-block;
-  padding: 25px;
+  padding-right: 10px;
+  padding-top: 5px;
   float: right;
-  height: 60px;
 }
 
 
