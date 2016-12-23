@@ -287,15 +287,7 @@ html {
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
-.header_links {
-    background-color: #0099cc;
-    color: #ffffff;
-    text-align: right;
-    font-size: 20px;
-    padding: 15px;
-    vertical-align: middle;
-    height: 60px;
-}
+
 
 .footer_links {
     background-color: #0099cc;
@@ -313,6 +305,16 @@ html {
     text-align: center;
     font-size: 12px;
     padding: 25px;
+    vertical-align: middle;
+    height: 60px;
+}
+
+.home_menu {
+    background-color: #122f8b;
+    color: #d3a157;
+    text-align: left;
+    font-size: 30px;
+    padding: 15px;
     vertical-align: middle;
     height: 60px;
 }
