@@ -11,6 +11,10 @@ img {
     vertical-align: middle;
 }
 
+a {
+  color: #fff;
+}
+
 p {
   line-height: 1.6em;
 }
