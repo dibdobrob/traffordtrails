@@ -1,5 +1,5 @@
 ---
-layout: page-bakery
+layout: page_bakery
 title: Contact us
 permalink: /contact_us/
 ---
