@@ -3,7 +3,6 @@ body {
   padding: 0;
   margin: 0;
   font-size: 20px;
-  background-color:  #1E1A34;
 }
 
 img {
@@ -44,9 +43,6 @@ h3 {
 div.container {
   margin: 0 auto;
   padding: 0 20px;
-}
-
-div.container {
   max-width: 940px;
 }
 
@@ -125,7 +121,7 @@ nav.main-nav li a {
 }
 
 div.content {
-  background: #fff;
+  background: #1E1A34;
 }
 
 
