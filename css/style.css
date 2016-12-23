@@ -253,8 +253,8 @@ html {
 }
 
 .header {
-  background: #0099cc;
-  color: #ffffff;
+  background-color: #122f8b;
+  color: #d3a157;
   padding: 15px;
 }
 
@@ -293,8 +293,8 @@ html {
 }
 
 .footer_call_to_action {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #122f8b;
+    color: #d3a157;
     text-align: center;
     font-size: 12px;
     padding: 25px;
@@ -303,7 +303,7 @@ html {
 }
 
 .footer_link {
-    color: #fff;
+    color: #122f8b;
 }
 
 
