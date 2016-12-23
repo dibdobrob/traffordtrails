@@ -109,19 +109,18 @@ nav.main-nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  float: left;
-  position: fixed;
-  background-color: #333;
+  background-color:#122f8b;
+  font-size: 20px;
   top: 0;
   width: 100%; 
-
 }
 
 nav.main-nav li,
 nav.main-nav a {
   display: inline-block;
-  padding: 10px;
-  float: left;
+  padding: 25px;
+  float: right;
+  height: 60px;
 }
 
 
@@ -262,21 +261,6 @@ html {
 }
 
 
-
-.menu ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-.menu li {
-    padding: 8px;
-    margin-bottom: 7px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-.menu li:hover {
-    background-color: #0099cc;
-}
-
 .aside {
     background-color: #33b5e5;
     padding: 15px;
@@ -305,15 +289,6 @@ html {
     font-size: 12px;
     padding: 25px;
     vertical-align: middle;
-    height: 60px;
-}
-
-.home_menu {
-    background-color: #122f8b;
-    color: #d3a157;
-    text-align: right;
-    font-size: 20px;
-    padding: 25px;
     height: 60px;
 }
 
