@@ -1,42 +1,18 @@
-<!doctype html>
-<html lang="en">
-  <head>
+    <!doctype html>
+    <html lang="en">
+    <head>
 
     {% include meta.html %}
     
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     <link rel="stylesheet" href="https://robertwadsworth.github.io/dragons-beta/css/style.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
-  </head>
-  <body>
-    <header>
-      <div class="container">
-        <nav class="main-nav">
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/blog.html">Contact Us</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
-    <div class="content">
-      {{ content }}
-    </div>
-   
-  <div class="footer_links">
-  <a target="_blank" href="https://twitter.com/SaleDragonsRC">
-  <img src="https://robertwadsworth.github.io/dragons-beta/images/Twitter_Logo_White_On_Blue.png" width="30px" height="auto"></a>
-  <a target="_blank" href="https://www.facebook.com/DragonsRunningClubSale/">
-  <img src="https://robertwadsworth.github.io/dragons-beta/images/FB-f-Logo__blue_100.png" width="30px" height="auto"></a>
-  </div>
+    </head>
+    <body>
+    {{ content }}
+    </body>
+    {% include analytics.html %}
 
-<div class="footer_call_to_action">
-  Love running, join us.
-</div>
-    
-   {% include analytics.html %}
-</body>
-</html>
+    </html>
 
 
 
