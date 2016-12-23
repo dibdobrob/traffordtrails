@@ -110,6 +110,9 @@ nav.main-nav ul {
   list-style: none;
   float: right;
   position: fixed;
+  background-color: #333;
+  top: 0;
+  width: 100%; 
 }
 
 nav.main-nav li,
