@@ -109,16 +109,15 @@ nav.main-nav ul {
   padding: 0;
   list-style: none;
   float: right;
+  position: fixed;
 }
 
 nav.main-nav li,
 nav.main-nav a {
   display: inline-block;
-}
-
-nav.main-nav li a {
   padding: 10px;
 }
+
 
 div.content {
   background: #1E1A34;
