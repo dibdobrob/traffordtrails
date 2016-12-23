@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: page-bakery
+title: Contact us
+permalink: /contact_us/
 ---
 
 ### Contact us
