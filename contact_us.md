@@ -4,8 +4,6 @@ title: Contact us
 permalink: /contact_us/
 ---
 
-### Contact us
-
 [dragons.running.club@gmail.com](dragons.running.club@gmail.com)
 https://www.facebook.com/groups/dragonsrunners/
 
