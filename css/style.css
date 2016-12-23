@@ -111,6 +111,7 @@ nav.main-nav ul {
   padding: 0;
   list-style: none;
   background-color:#122f8b;
+  color: #fff;
   font-size: 20px;
   top: 0;
   width: 100%; 
@@ -120,8 +121,9 @@ nav.main-nav li,
 nav.main-nav a {
   display: inline-block;
   padding-right: 10px;
-  padding-top: 5px;
+  padding-top: 10px;
   float: right;
+  text-decoration: none;
 }
 
 
