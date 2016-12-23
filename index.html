@@ -1,21 +1,49 @@
 ---
-layout: default
+layout: page_bakery
+hero_text: Dragons Running
+title: Dragons Running Club
 ---
 
+{% assign top_topics = site.posts | where:"importance","high"  | sort: 'sequence' %}     
+{% assign bottom_topics = site.posts | where:"importance","low"  | sort: 'sequence' %} 
 
- <div class="posts">
-   {% for post in site.posts %}
-     <article class="post">
-  
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="row"> 
+        
+        <div class="col-1 menu"></div>
+        
+        <div class="col-6 menu">
+        <ul>
+        {% for topic in top_topics %}
+                <article class="post">
+                        <li>   
+                                <div class="image">
+                                <img src="{{ topic.thumbnail-path }}" alt="" />
+                                <p class="img-headline">{{ topic.title }}</p>
+                                </div>
+                                <p class="headline">{{ topic.excerpt | strip_html }}, 
+                                <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p>
+                        </li>
+                </article>
+        {% endfor %}
+        </ul>
+        </div>
+        
+        <div class="col-6 menu">
+        <ul>
+       {% for topic in bottom_topics %}
+                <article class="post">
+                        <li>   
+                                <div class="image">
+                                <img src="{{ topic.thumbnail-path }}" alt="" />
+                                <p class="img-headline">{{ topic.title }}</p>
+                                </div>
+                                <p class="headline">{{ topic.excerpt | strip_html }}, 
+                                <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p>
+                        </li>
+                </article>
+         {% endfor %}
+    </ul>
+    </div>
      
-      <div class="promo"><img src="{{ post.thumbnail-path }}" alt="{{ post.title }}"/></div>
-     
-        <span class="body">{{ post.excerpt | strip_html }}</span>
-  
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-    {% endfor %}
-  
-  some test text
+</div>
   
