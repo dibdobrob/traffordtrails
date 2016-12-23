@@ -253,10 +253,14 @@ html {
 }
 
 .header {
-  background-color: #122f8b;
-  color: #d3a157;
+  /*OLD DRAGON SITE background-color: #122f8b;
+  color: #d3a157; */
+  background-color:  #1E1A34;
+  color: #f39200;
   padding: 15px;
 }
+
+
 
 .menu ul {
     list-style-type: none;
