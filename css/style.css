@@ -103,7 +103,31 @@ footer a {
   color: #ffffff;
 }
 
-/*------------------ Top menu------------------- */
+
+/*------------------ Top menu using images------------------- */
+
+nav.main-nav ul {
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color:#122f8b;
+  top: 0;
+  width: 100%; 
+}
+
+nav.main-nav li,
+nav.main-nav a {
+  display: inline-block;
+  padding-right: 10px;
+  padding-top: 5px;
+  float: right;
+}
+
+ /*------*/
+
+
+/*------------------ Top menu using text------------------- 
 
 nav.main-nav ul {
   height: 60px;
@@ -126,7 +150,7 @@ nav.main-nav a {
   text-decoration: none;
 }
 
-/*--------------- */
+ */
 
 /*------------------ Content Item Menu ------------------- */
 
