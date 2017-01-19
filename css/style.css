@@ -174,12 +174,12 @@ nav.main-nav a {
 
 div.content {
   background: #1E1A34;
-  padding: 50px 0;
+  padding: 15px;
   color: #777;
   font-family: "Source Sans Pro", sans-serif;
   margin: 0px;
   font-size: 20px;
-  left: 15px; 
+ /*--- left: 15px; --- */
  /*--- line-height: 1.5em; --- */
  /*---   border: 1px solid #ccc; --- */
  /*---   resize: none; --- */
