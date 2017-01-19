@@ -176,6 +176,9 @@ div.content {
   background: #1E1A34;
   padding: 50px 0;
   color: #777;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 50px;
+  font-size: 20px;
  /*--- line-height: 1.5em; --- */
  /*---   border: 1px solid #ccc; --- */
  /*---   resize: none; --- */
