@@ -8,3 +8,5 @@ Twitter: @dibdobrob
 Facebook: @dibdobrob
 LinkedIn: @wadsworthrobert - https://www.linkedin.com/in/wadsworthrobert/
 GitHub: @dibdobrob
+
+ {{ site.footer-links.github }}
