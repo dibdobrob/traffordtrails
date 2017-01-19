@@ -20,13 +20,10 @@ p {
 }
 
 h1 {
-  padding: 0;
-  margin: 0;
-}
-
-h1 {
   font-size: 2.0em;
   color: #fff;
+  padding: 0;
+  margin: 0;
 }
 
 h2 { 
@@ -313,8 +310,10 @@ html {
   /*OLD DRAGON SITE background-color: #122f8b;
   color: #d3a157; */
   background-color:  #1E1A34;
-  color: #f39200;
   padding: 15px;
+  font-size: 1.8em;
+  margin: 15px 0;
+  color: #fff;
 }
 
 
