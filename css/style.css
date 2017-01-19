@@ -177,8 +177,9 @@ div.content {
   padding: 50px 0;
   color: #777;
   font-family: "Source Sans Pro", sans-serif;
-  margin: 50px;
+  margin: 0px;
   font-size: 20px;
+  left: 15px; 
  /*--- line-height: 1.5em; --- */
  /*---   border: 1px solid #ccc; --- */
  /*---   resize: none; --- */
