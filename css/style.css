@@ -208,6 +208,10 @@ div.content {
  /*---   resize: none; --- */
 }
 
+div.void {
+   padding: 0.5px;
+}
+
 
 p.sub-text {
   font-size: 20px;
