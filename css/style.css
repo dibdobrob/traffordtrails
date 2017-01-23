@@ -5,6 +5,15 @@ p.site-intro {
   font-size: 60px;
   color: #E5E4E2;
   text-align:right;
+  line-height: 60px;
+  font-weight: bold;
+}
+
+p.site-subintro {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #E5E4E2;
+  text-align:right;
   line-height: 40px;
   font-weight: bold;
 }
