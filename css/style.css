@@ -2,6 +2,7 @@
 
 section.site_heading {
   background-image: url('https://robertwadsworth.github.io/dragons-beta/images/hero.png');
+  background-color:  #1E1A34;
   background-size: cover;
 }
 
@@ -19,6 +20,14 @@ section.page_footer {
 
 section.site_footer {
   background-color:  #1E1A34;
+}
+
+div.content {
+   padding: 15px;
+}
+
+div.void {
+   padding: 0.5px;
 }
 
 
@@ -45,12 +54,6 @@ p.site-subintro {
   
 }
 
-body {
-  font-family: "Source Sans Pro", sans-serif;
-  padding: 0;
-  margin: 0;
-  font-size: 20px;
-}
 
 img {
     max-width: 100%;
@@ -99,10 +102,6 @@ div.small-container {
 div.image { 
    position: relative; 
    max-width: 100%; /* for IE 6 */
-}
-
-section.page-brief {
-  color: #fff;
 }
 
 p.post-hero {
@@ -209,13 +208,7 @@ nav.main-nav a {
 
 /*--------------- */
 
-div.content {
-   padding: 15px;
-}
 
-div.void {
-   padding: 0.5px;
-}
 
 
 p.sub-text {
