@@ -69,10 +69,8 @@ div.container {
 }
 
 section.hero {
-  color: #fff;
   background-image: url('https://robertwadsworth.github.io/dragons-beta/images/runnerThree.png');
   background-size: cover;
-  padding: 30px 0;
 }
 
 div.small-container {
