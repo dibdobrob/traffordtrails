@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Contact details
 permalink: /contact_details/
 ---
