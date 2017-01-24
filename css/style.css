@@ -218,7 +218,7 @@ nav.main-nav a {
 .menu ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 15px;
 }
 .menu li {
     padding: 8px;
