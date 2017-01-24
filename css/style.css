@@ -315,20 +315,17 @@ label {
   display: block;
 }
 
-input[type="submit"] {
-  margin: 30px 0 0 0;
-  font-size: 20px;
-}
 
-* {
-    box-sizing: border-box;
-}
 .row::after {
     content: "";
     clear: both;
     display: block;
 }
 
+
+.header_row {
+  background-color:  #1E1A34;
+}
 
 .header {
   /*OLD DRAGON SITE background-color: #122f8b;
