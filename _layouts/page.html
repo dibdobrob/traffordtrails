@@ -6,21 +6,13 @@ layout: default
 
       {% include menu_with_icons.html %}
       
-      <section class="page_heading">
-      <div class="row"> 
       
-      <div class="col-1 menu">
-      <div class="void"> </div>
-      </div>
 
-      <div class="col-11 menu">
-      <div class="header">
-      {{ page.title }}
-      </div>
-      </div>
+      <section class="page_heading">
       
-     </div> 
-     </section>     
+      {% include page_heading.html %}
+            
+      </section>     
             
  
      <section class="page_content">
@@ -28,5 +20,8 @@ layout: default
      {{ content }} 
  
      </section> 
-           
+
+
+
+         
       {% include footer.html %}
