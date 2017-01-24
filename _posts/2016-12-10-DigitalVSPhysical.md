@@ -11,15 +11,15 @@ sequence: 1
 ### Keep it honest
 
 Ultimately it doesn’t matter whether a team use a physical or digital board to track their work, the only thing that matters is that their board truthfully and accurately reflects reality. Unless the purpose of the game is to deliberately trick the other participants then every game has one unwritten rule which is that we all play honestly.
-* Goals
-* Work in progress
+* Goals  
+* Work in progress 
 * Work limits
-* Status
-* Process steps
-* Progress
-* Rules / procedures
-* Assignees
-* Blockades
+* Status 
+* Process steps  
+* Progress  
+* Rules / procedures  
+* Assignees 
+* Blockades  
 
 All of the above are valuable on any board but only if they are accurate. I would challenge any team thinking of changing their board to first ask themselves whether or not their current board is exactly that, accurate. If it isn’t, fix it and once you have fixed it take a step back and see what it is telling you.
 
