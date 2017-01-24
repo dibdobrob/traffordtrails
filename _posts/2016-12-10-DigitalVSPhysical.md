@@ -8,8 +8,6 @@ importance: low
 sequence: 1
 ---
 
-Physical vs. Digital Boards
-
 ### Keep in honest
 
 Ultimately it doesn’t matter whether a team use a physical or digital board to track their work, the only thing that matters is that their board truthfully and accurately reflects reality. Unless the purpose of the game is to deliberately trick the other participants then every game has one unwritten rule which is that we all play honestly.
