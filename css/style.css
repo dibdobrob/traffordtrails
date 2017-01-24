@@ -21,12 +21,20 @@ section.page_footer {
   font-family: 'Montserrat', sans-serif;
   background-color:  #1E1A34;
   color: #E5E4E2;
+  text-align: center;
+  font-size: 12px;
+  vertical-align: middle;
+  height: 60px;
 }
 
 section.site_footer {
   font-family: 'Montserrat', sans-serif;
   background-color:  #1E1A34;
   color: #E5E4E2;
+  text-align: center;
+  font-size: 12px;
+  vertical-align: middle;
+  height: 60px;
 }
 
 div.content {
@@ -352,27 +360,6 @@ label {
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
-.footer_links {
-    background-color: #0099cc;
-    color: #ffffff;
-    text-align: center;
-    font-size: 12px;
-    vertical-align: middle;
-    height: 60px;
-}
-
-.footer_call_to_action {
-    background-color: #122f8b;
-    color: #d3a157;
-    text-align: center;
-    font-size: 12px;
-    vertical-align: middle;
-    height: 60px;
-}
-
-.footer_link {
-    color: #122f8b;
-}
 
 [class*="col-"] {
     float: left;
