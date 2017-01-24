@@ -27,6 +27,8 @@ All of the above are valuable on any board but only if they are accurate. I woul
 Ok, it’s not like me to sit on the bench and with all that mention of honesty, here is what I really think. Physical boards kick arse almost every single time, if, and only if you are willing to put in the effort to collect data from them and keep them clean. Physical boards seem to invoke a higher level of creativity, pride and ownership. There is something about airing your dirty laundry in public that makes you want to improve your wardrobe. 
 Physical boards come with little constraint, they encourage discussion and for some reason it’s usually much more obvious where your problems are when presented physically rather than digitally. One other thing I like about physical boards is that like anything physical they age and this in itself encourages you to review them once in awhile.
 
+![Chalky](https://dibdobrob.github.io/robertwadsworth/images/chalk.png)
+
 ### A little big up for digital
 That said, digital boards have their advantages to, mainly that they come equipped with a load of nicely prepared charts, graphs, filters and reports. They are also quick to spin up and even quicker to change. Most importantly digital boards are available from anywhere, something that for distributed teams is nothing less than essential.
 
