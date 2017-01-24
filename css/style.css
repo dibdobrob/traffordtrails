@@ -145,11 +145,11 @@ p.headline {
 
 p.img-headline { 
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    bottom: 5px;
+    left: 5px;
     font-size: 14pt;
-    padding: 0.20em;
-    width: 100%;
+    padding: 5px;
+    width: inherit;
     text-transform: uppercase;
     color: #ffffff;
     font-family: Arial,Helvetica,freesans,sans-serif;
