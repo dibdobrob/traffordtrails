@@ -1,5 +1,27 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
+section.site_heading {
+  background-image: url('https://robertwadsworth.github.io/dragons-beta/images/runnerThree.png');
+  background-size: cover;
+}
+
+section.page_heading {
+  background-color:  #1E1A34;
+}
+
+section.page_content {
+  background-color:  #1E1A34;
+}
+
+section.page_footer {
+  background-color:  #1E1A34;
+}
+
+section.site_footer {
+  background-color:  #1E1A34;
+}
+
+
 p.site-intro {
   font-family: 'Montserrat', sans-serif;
   font-size: 45px;
@@ -66,11 +88,6 @@ div.container {
   margin: 0 auto;
   padding: 0 20px;
   max-width: 940px;
-}
-
-section.hero {
-  background-image: url('https://robertwadsworth.github.io/dragons-beta/images/runnerThree.png');
-  background-size: cover;
 }
 
 div.small-container {
@@ -310,10 +327,6 @@ label {
     display: block;
 }
 
-
-.header_row {
-  background-color:  #1E1A34;
-}
 
 .header {
   background-color:  #1E1A34;
