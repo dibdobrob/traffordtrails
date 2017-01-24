@@ -195,17 +195,7 @@ nav.main-nav a {
 /*--------------- */
 
 div.content {
-   /*--- Provides padding for all contect sections--- */
    padding: 15px;
- /*--- background: #1E1A34;--- */
- /*---color: #777;--- */
- /*---font-family: "Source Sans Pro", sans-serif;--- */
- /*--- margin: 0px;--- */
- /*---font-size: 20px;--- */
- /*--- left: 15px; --- */
- /*--- line-height: 1.5em; --- */
- /*---   border: 1px solid #ccc; --- */
- /*---   resize: none; --- */
 }
 
 div.void {
@@ -328,12 +318,9 @@ label {
 }
 
 .header {
-  /*OLD DRAGON SITE background-color: #122f8b;
-  color: #d3a157; */
   background-color:  #1E1A34;
-   padding: 15px;
+  padding: 15px;
   font-size: 1.8em;
-  /*margin: 15px 0;*/
   color: #fff;
 }
 
@@ -347,14 +334,11 @@ label {
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
-
-
 .footer_links {
     background-color: #0099cc;
     color: #ffffff;
     text-align: center;
     font-size: 12px;
-    padding: 15px;
     vertical-align: middle;
     height: 60px;
 }
@@ -364,7 +348,6 @@ label {
     color: #d3a157;
     text-align: center;
     font-size: 12px;
-    padding: 25px;
     vertical-align: middle;
     height: 60px;
 }
