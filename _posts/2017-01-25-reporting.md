@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Reporting
-thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/report_zombie.png
-Excerpt: Resistance is futile, or is it?
+thumbnail-path: https://dibdobrob.github.io/robertwadsworth/images/report_zombie.png
+excerpt: Resistance is futile, or is it?
 label: topics
 importance: low
 sequence: 1
