@@ -6,6 +6,7 @@ excerpt: Resistance is futile, or is it?
 label: topics
 importance: low
 sequence: 1
+comments: true
 ---
 
 ### Down with the system
