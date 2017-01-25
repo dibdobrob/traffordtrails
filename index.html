@@ -56,7 +56,9 @@ title: Home
                                 <p class="img-headline">{{ topic.title }}</p>
                                 </div>
                                 <p class="headline">{{ topic.excerpt | strip_html }}, 
-                                <a href="{{ site.baseurl }}{{ topic.url }}#disqus_thread" data-disqus-identifier="{{ topic.url }}">Read more</a></p>
+                                <a href="{{ site.baseurl }}{{ topic.url }}#disqus_thread" data-disqus-identifier="{{ topic.url }}">Read more</a>
+                                <span class="disqus-comment-count" data-disqus-url="{{ site.baseurl }}{{ topic.url }}">First article</span>
+                              </p>
                         </li>
                 </article>
          {% endfor %}
