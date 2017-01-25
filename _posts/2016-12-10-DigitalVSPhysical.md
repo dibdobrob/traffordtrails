@@ -6,6 +6,7 @@ excerpt: Ultimately it doesn’t matter whether a team use a physical or digital
 label: topics
 importance: low
 sequence: 1
+comments: true
 ---
 
 ### Keep it honest
