@@ -9,7 +9,7 @@ sequence: 1
 ---
 
 ### Down with the system
-Any manager I have ever had will confirm my utter dislike of reporting, they will tell you of my 
+Any manager I have ever worked for will confirm my utter dislike of reporting, they will tell you of my 
 relentless fight against the system and probably how they wished that I would just do what I was told.    
 
 The truth is that I can’t, I can’t do what I am told if I do not know why I am doing it. The problem with 
@@ -35,7 +35,7 @@ time that could be spent actually talking to people it would be a lot of time in
 is actually valuable to report, do whatever it takes to reduce the effort to do so.    
 
 Also, don’t limit your medium, a verbal 
-report can be just as value as a written one so don’t rule out just delivering your message vocally.
+report can be just as valuable as a written one so don’t rule out just delivering your message vocally.
 
 ### Resistance is futile
 As the zombie like Borg say, ‘resistance is futile’, it wasn’t, Picard kicked their arse eventually but 
@@ -43,5 +43,5 @@ that simple phrase made the Borg one of the most terrifying trecky villains of a
 a lost battle is soul destroying.    
 
 If you are one of 100 PM’s writing a standard report, resistance would be futile, so like Picard don’t fight them, 
-join them, work with them, go with the flow, find a weakness and expose it gradually by planting seeds and gaining 
+join them. Work with them, go with the flow, find a weakness and expose it gradually by planting seeds and gaining 
 wider support from your close peers and stakeholders before taking on the system as a whole.
