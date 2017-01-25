@@ -44,4 +44,6 @@ a lost battle is soul destroying.
 
 If you are one of 100 PM’s writing a standard report, resistance would be futile, so like Picard don’t fight them, 
 join them. Work with them, go with the flow, find a weakness and expose it gradually by planting seeds and gaining 
-wider support from your close peers and stakeholders before taking on the system as a whole.
+wider support from your close peers and stakeholders before taking on the system as a whole.    
+    
+> This subject was requested by Kiran Khadijah, Thanks Kiran, I F&%king hate reports!
