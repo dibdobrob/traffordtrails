@@ -8,7 +8,7 @@ permalink: /contact_details/
 <!-- **flickr:** {{ site.footer-links.flickr }} -->
 **github id:** [{{ site.footer-links.github }}](http://www.github.com/{{ site.footer-links.github }})  
 <!-- **instagram:** {{ site.footer-links.instagram }} -->
-**linkedin id:** [{{ site.footer-links.linkedin }}](http://www.linkedin.com/{{ site.footer-links.linkedin }})  
+**linkedin id:** [{{ site.footer-links.linkedin }}](https://www.linkedin.com/in/{{ site.footer-links.linkedin }})  
 <!-- **pinterest:** {{ site.footer-links.pinterest }}  -->
 <!-- **rss:** {{ site.footer-links.rss }}  -->
 **twitter id:** [{{ site.footer-links.twitter }}](http://www.twitter.com/{{ site.footer-links.twitter }})  
