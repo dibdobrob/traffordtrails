@@ -12,8 +12,13 @@ layout: default
             
      <section class="page_content">
      {{ content }} 
-     {% include disqus.html %}         
      </section> 
+
+     {% if page.comments %}
+     <section class="feedback">
+     {% include disqus.html %}   
+     </section>
+     {% endif %}
 
      <section class="page_footer"> 
      {% include page_footer.html %}    
