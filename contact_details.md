@@ -6,7 +6,7 @@ permalink: /contact_details/
 **email:** [{{ site.footer-links.email }}](mailto://{{ site.footer-links.email }})  
 **facebook:** [{{ site.footer-links.facebook }}](https://www.facebook.com/{{ site.footer-links.facebook }})
 <!-- **flickr:** {{ site.footer-links.flickr }} -->
-**github:** {{ site.footer-links.github }}  
+**github:** [{{ site.footer-links.github }}](http://www.github.com/{{ site.footer-links.github }})
 <!-- **instagram:** {{ site.footer-links.instagram }} -->
 **linkedin:** {{ site.footer-links.linkedin }}  
 <!-- **pinterest:** {{ site.footer-links.pinterest }}  -->
