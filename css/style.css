@@ -17,6 +17,11 @@ section.page_content {
   color: #E5E4E2;
 }
 
+section.feedback {
+  font-family: 'Montserrat', sans-serif;
+  background-color:  #1E1A34;
+}
+
 section.page_footer {
   font-family: 'Montserrat', sans-serif;
   background-color:  #1E1A34;
