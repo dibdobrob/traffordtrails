@@ -53,12 +53,14 @@ title: Ramblings in the region of 400 words
                         <li>   
                                 <div class="image">
                                 <img src="{{ topic.thumbnail-path }}" alt="" />
-                                <p class="img-topright">{{ topic.title }}</p>         
+                                <p class="img-topright">
+                                      <span class="disqus-comment-count" data-disqus-url="{{ site.baseurl }}{{ topic.url }}"></span></p>         
+                                
                                 <p class="img-headline">{{ topic.title }}</p>
                                 </div>
                                 <p class="headline">{{ topic.excerpt | strip_html }}, 
                                 <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a>
-                                <span class="disqus-comment-count" data-disqus-url="{{ site.baseurl }}{{ topic.url }}"></span>
+                   
                               </p>
                         </li>
                 </article>
