@@ -54,8 +54,7 @@ title: Ramblings in the region of 400 words
                                 <div class="image">
                                 <img src="{{ topic.thumbnail-path }}" alt="" />
                                 <p class="img-topright">
-                                      {{ topic.date }}
-                                      {{ topic.date | date: "%a, %b %d, %y" }}
+                                     Published: {{ topic.date | date: "%D" }}
                                       <span class="disqus-comment-count" data-disqus-url="{{ site.baseurl }}{{ topic.url }}"></span></p>         
                                 
                                 <p class="img-headline">{{ topic.title }}</p>
