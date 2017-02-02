@@ -1,11 +1,12 @@
 ---
 layout: article
-title: Physical vs. Digital Boards
+title: Physical vs. Digital
 thumbnail-path: https://dibdobrob.github.io/robertwadsworth/images/chalk.png
 excerpt: Ultimately it doesn’t matter whether a team use a physical or digital board to track their work but that doesn't mean I don't have a favourite.
 label: topics
 importance: low
 sequence: 1
+quick-nav: true
 comments: true
 ---
 
