@@ -279,7 +279,9 @@ nav.main-nav a {
 }
 
 .quick-nav li {
-    float: left;
+    float: left; 
+     width: 33.3%;
+  
 }
 
 .quick-nav li:hover {
@@ -292,7 +294,6 @@ nav.main-nav a {
     margin: 5px;
     background-color: #dddddd;
     color: #000000;
-    width: 180px;
     text-decoration: none;
 }
 
@@ -453,6 +454,7 @@ label {
     .col-1 {width: 0%;}
     .col-6 {width: 100%;}
     .col-11 {width: 100%;}
+    .quick-nav li {width: 100%;}
 }
 
 
