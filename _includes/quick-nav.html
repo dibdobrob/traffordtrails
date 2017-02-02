@@ -1,7 +1,11 @@
-     <div class="col-11 menu">
-            {% for topic in bottom_topics %}
-                <div class="quick-nav">
-                {{ topic.title }}
-                </div>
-            {% endfor %}
-            </div>
+     <div class="col-11">
+       
+           <ul>
+          {% for topic in bottom_topics %}
+          <li>
+               <a href="nowhere">   {{ topic.title }} </a>
+          </li>
+         {% endfor %}
+          </ul>
+     
+</div>
