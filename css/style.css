@@ -11,6 +11,9 @@ section.page_heading {
   background-color:  #1E1A34;
 }
 
+section.quick-nav {
+}
+
 section.page_content {
   font-family: 'Montserrat', sans-serif;
   background-color:  #1E1A34;
@@ -51,17 +54,6 @@ div.content {
 
 div.article {
    padding: 15px;
-}
-
-div.quick-nav {
-   padding: 15px;
-   font-size: 20px;
-   color: #848482;
-   text-align:left;
-   margin-top: 0px;
-   margin-bottom: 0px;
-   line-height: 1em;
-   width: 100px;
 }
 
 div.collection {
@@ -270,6 +262,34 @@ nav.main-nav a {
 }
 .menu li:hover {
     background-color: #0099cc;
+}
+
+/*--------------- */
+
+
+/*------------------ Quick Nav Menu ------------------- */
+
+.quick-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.quick-nav li {
+    float: left;
+}
+
+.quick-nav li:hover {
+    background-color: #0099cc;
+}
+
+.quick-nav li a {
+    display: block;
+    padding: 20px;
+    margin: 5px;
+    background-color: #dddddd;
+    width: 200px;
 }
 
 /*--------------- */
