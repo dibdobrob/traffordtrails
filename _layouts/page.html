@@ -14,6 +14,12 @@ layout: default
      {{ content }} 
      </section> 
 
+     {% if page.quick-nav %}
+      <section class="quick-nav">
+      {% include quick-nav.html %}
+      </section> 
+     {% endif %}
+
      {% if page.comments %}
      <section class="feedback">
      {% include disqus.html %}   
