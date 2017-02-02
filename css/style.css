@@ -274,7 +274,7 @@ nav.main-nav a {
 .quick-nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 15px;
     overflow: hidden;
 }
 
@@ -293,6 +293,7 @@ nav.main-nav a {
     background-color: #dddddd;
     color: #000000;
     width: 180px;
+    text-decoration: none;
 }
 
 /*--------------- */
