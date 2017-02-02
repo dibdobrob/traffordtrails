@@ -53,6 +53,17 @@ div.article {
    padding: 15px;
 }
 
+div.quick-nav {
+   padding: 15px;
+   font-size: 20px;
+   color: #848482;
+   text-align:left;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   line-height: 1em;
+   width: 100px;
+}
+
 div.collection {
 }
 
