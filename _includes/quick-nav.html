@@ -9,7 +9,7 @@
            <ul>
           {% for topic in bottom_topics %}
           <li>
-               <a href="nowhere">{{ site.baseurl }}{{ topic.url }}</a>
+               <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a>
           </li>
          {% endfor %}
           </ul>
