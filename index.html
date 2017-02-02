@@ -30,9 +30,9 @@ title: Ramblings in the region of 400 words
 -->
             <div class="col-11 menu">
             {% for topic in bottom_topics %}
-                <article class="post">
-                <p class="img-headline">{{ topic.title }}</p>
-                </article>
+                <div class="quick-nav">
+                {{ topic.title }}
+                </div>
             {% endfor %}
             </div>
        
