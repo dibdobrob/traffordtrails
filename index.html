@@ -28,14 +28,11 @@ title: Ramblings in the region of 400 words
         </ul>
  </div>
 -->
-            <div class="col-11 menu">
-            {% for topic in bottom_topics %}
-                <div class="quick-nav">
-                {{ topic.title }}
-                </div>
-            {% endfor %}
-            </div>
-       
+            
+             <section class="quick-nav">
+             {% include quick-nav.html %}
+             </section> 
+            
 
         <div class="col-6 menu">
         <ul>
