@@ -12,6 +12,8 @@ section.page_heading {
 }
 
 section.quick-nav {
+   font-family: 'Montserrat', sans-serif;
+   background-color:  #1E1A34;
 }
 
 section.page_content {
