@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About this blog
-thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/about_blog.png
+thumbnail-path: https://dibdobrob.github.io/robertwadsworth/images/about_blog.png
 excerpt: 
 label: topics
 importance: high
