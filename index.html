@@ -43,9 +43,14 @@ title: Ramblings in the region of 400 words
                                 <img src="{{ topic.thumbnail-path }}" border-radius="8px" alt="" />
                                 <p class="img-headline">{{ topic.title }}</p>
                                 </div>
-                                <p class="headline">{{ topic.excerpt | strip_html }}, 
-                                <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p>
-                        </li>
+                                
+        <ul>
+        <li> <p class="headline">{{ topic.excerpt | strip_html }}, 
+             <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p>
+          </li>   
+      </ul>
+                               
+                       </li>
                 </article>
         {% endfor %}
         </ul>
