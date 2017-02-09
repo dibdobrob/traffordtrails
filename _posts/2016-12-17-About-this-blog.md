@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About this blog
-thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/runnerNine.jpg
+thumbnail-path: https://robertwadsworth.github.io/dragons-beta/images/about_blog.jpg
 excerpt: 
 label: topics
 importance: high
