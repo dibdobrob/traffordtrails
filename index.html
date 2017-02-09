@@ -37,19 +37,23 @@ title: Ramblings in the region of 400 words
         <div class="col-6 menu">
         <ul>
         {% for topic in top_topics %}
-                <article class="post">
-                        <li>   
+          <a href="{{ site.baseurl }}{{ post.url }}">      
+          <article class="post">
+                                
+                                <li>   
                                 <div class="image">
                                 <img src="{{ topic.thumbnail-path }}" border-radius="8px" alt="" />
-                                <p class="img-headline">{{ topic.title }}</p>
+                                <p class="img-headline">{{ topic.title }}</p> 
                                 </div>
+                               
              
          <!--    <p class="headline">{{ topic.excerpt | strip_html }}, 
              <a href="{{ site.baseurl }}{{ topic.url }}">Read more</a></p> -->
       
                                
-                       </li>
+                       </li>       
                 </article>
+                </a>
         {% endfor %}
         </ul>
     </div>
