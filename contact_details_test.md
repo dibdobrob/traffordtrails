@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Contact details test
+title: Trafford Trails 5 Miler
 permalink: /contact_details_test/
 ---
 ### About
