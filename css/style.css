@@ -130,7 +130,7 @@ h2 {
 
 h3 {
   font-size: 16px;
-  margin: 15px 0;
+  margin: 30px 0;
   background-color: rgba(30,108,147,1);
   display: block;
   background-size: cover;
@@ -138,6 +138,7 @@ h3 {
   position: relative;
   table-layout: fixed;
   width: 100%;
+  padding-left: 15px;
 }
 
 div.container {
