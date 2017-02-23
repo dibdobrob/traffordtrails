@@ -3,16 +3,23 @@ layout: article
 title: Contact details test
 permalink: /contact_details_test/
 ---
-**email:** [{{ site.footer-links.email }}](mailto://{{ site.footer-links.email }})  
-**facebook id:** [{{ site.footer-links.facebook }}](https://www.facebook.com/{{ site.footer-links.facebook }})  
-<!-- **flickr:** {{ site.footer-links.flickr }} -->
-**github id:** [{{ site.footer-links.github }}](http://www.github.com/{{ site.footer-links.github }})  
-<!-- **instagram:** {{ site.footer-links.instagram }} -->
-**linkedin id:** [{{ site.footer-links.linkedin }}](https://www.linkedin.com/in/{{ site.footer-links.linkedin }})  
-<!-- **pinterest:** {{ site.footer-links.pinterest }}  -->
-<!-- **rss:** {{ site.footer-links.rss }}  -->
-**twitter id:** [{{ site.footer-links.twitter }}](http://www.twitter.com/{{ site.footer-links.twitter }})  
-**youtube id:** [{{ site.footer-links.youtube }}](http://youtube.com/channel/{{ site.footer-links.youtube }})  
-<!-- **googleplus:** {{ site.footer-links.googleplus }}  -->
-**strava id:** [{{ site.footer-links.strava }}](http://strava.com/athletes/{{ site.footer-links.strava }})  
-**run england id:** [{{ site.footer-links.runengland }}](http://www.runbritainrankings.com/runners/profile.aspx?athleteid={{ site.footer-links.runengland }})
+### About
+
+An easy going, late summer evening, 5 mile trail race through the woodlands and along the river banks of the river mersey. Entry £8 & £10 Prize money..... Race capacity...
+
+### The course
+
+Loads of stuff about the course and a pic of the course map ENTER NOW
+
+### Location and facilities
+
+Traffic approach routes Banky Lane is a quiet 2 carriage road leading only to Rugby Club and another sport facility. Banky lane is accessed via the Ashton traffic lights on the A6144 (Carrington Spur) Parking (cars)
+
+There is excellent car parking in the rugby club car park. If car park fills to capacity, cars can park along the entrance road. Both the Rugby club and adjoining sports club are used to dealing with more cars than they can fit in. Registration Registration will take place on the day from 6pm to 6.45pm in the club house Competitors will be informed to ensure you have read this risk assessment and event guide prior to signing on the start sheet at the registration area and collecting their race number. If there is still capacity then participants will be allowed to enter on the day Covered accommodation Registration and Post Race undercover Toilets Toilets Available in clubhouse Route to Course The start will take place on Bankey lane approx 10 meters further down the road than the entrance to the car park (& registration area), participants will be ushers to the start line at 6.50pm Refreshments The bar in the clubhouse will be open and will offer limited light refreshments after the race.
+
+### Competitor information
+
+All competitors must be in a fit state to undertake the 5 mile trail run as described. If they are in any doubt of their ability to complete a 5 mile run, they will be advised not to start. If competitors are new to running, they will be advised to get a check-up from a doctor indicating that they would like to take up running and racing as a form of exercise. When a runner signs the start sheet it will be made clear to them that they are taking responsibility for their decision to undertake the trail run. Starting list
+
+
+
