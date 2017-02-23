@@ -1,11 +1,11 @@
 ---
 layout: article
-title: TT5
+title: TT5 2017
 published: false
 thumbnail-path: https://dibdobrob.github.io/robertwadsworth/images/chalk.png
 excerpt: A 5 mile race along a river
 label: race-2017
-permalink: /contact_details/
+permalink: /tt52017/
 ---
 
 Trafford Trails 5
