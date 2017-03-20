@@ -130,7 +130,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.0em;
+  font-size: 1.0em !important;
   margin: 30px 0;
   background-color: rgba(30,108,147,1);
   display: block;
@@ -140,6 +140,7 @@ h3 {
   table-layout: fixed;
   width: 100%;
   padding-left: 15px;
+  color: #fff;
 }
 
 div.container {
@@ -425,10 +426,10 @@ label {
 
 
 .header {
-  background-color:  #1E1A34;
+  background-color:  #ffffff;
   padding: 15px;
   font-size: 1.8em;
-  color: #fff;
+  color: #000000;
 }
 
 
