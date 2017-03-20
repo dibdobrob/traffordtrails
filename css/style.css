@@ -3,34 +3,34 @@
 section.site_heading {
   background-image: url('http://traffordtrails.co.uk/images/header_one.png');
   
-  background-color:  #1E1A34;
+  background-color:  #ffffff;
   background-size: cover;
 }
 
 section.page_heading {
   font-family: 'Montserrat', sans-serif;
-  background-color:  #1E1A34;
+  background-color:  #ffffff;
 }
 
 section.quick-nav {
    font-family: 'Montserrat', sans-serif;
-   background-color:  #1E1A34;
+   background-color:  #ffffff;
 }
 
 section.page_content {
   font-family: 'Montserrat', sans-serif;
-  background-color:  #1E1A34;
-  color: #E5E4E2;
+  background-color:  #ffffff;
+  color: #000000;
 }
 
 section.feedback {
   font-family: 'Montserrat', sans-serif;
-  background-color:  #1E1A34;
+  background-color:  #ffffff;
 }
 
 section.page_footer {
   font-family: 'Montserrat', sans-serif;
-  background-color:  #1E1A34;
+  background-color:  #ffffff;
   color: #E5E4E2;
   text-align: center;
   font-size: 12px;
@@ -41,7 +41,7 @@ section.page_footer {
 
 section.site_footer {
   font-family: 'Montserrat', sans-serif;
-  background-color:  #1E1A34;
+  background-color:  #ffffff;
   color: #E5E4E2;
   text-align: center;
   font-size: 12px;
