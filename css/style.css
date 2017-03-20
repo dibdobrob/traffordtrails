@@ -81,7 +81,7 @@ p.site-intro {
 p.site-subintro {
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
-  color: #E5E4E2;
+  color: #848482;
   text-align:left;
   font-weight: bold;
   margin-top: 0px;
@@ -131,7 +131,7 @@ h2 {
 h3 {
   font-size: 1.2em !important;
   margin: 30px 0;
-  font-weight: bold;
+  font-weight: 900;
   background-color: rgba(30,108,147,1);
   display: block;
   background-size: cover;
@@ -140,6 +140,8 @@ h3 {
   table-layout: fixed;
   width: 100%;
   padding-left: 15px;
+  padding-bottom: 3px;
+  padding-top: 3px;
   color: #fff;
 }
 
@@ -426,11 +428,17 @@ label {
 
 
 .header {
+  font-family: 'Montserrat', sans-serif;
   background-color:  #ffffff;
-  padding: 15px;
-  font-size: 1.8em;
-  color: #000000;
+  padding-left: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 1.4em;
+  color: #848482;
 }
+
+
+
 
 
 .aside {
