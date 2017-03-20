@@ -30,7 +30,7 @@ section.feedback {
 section.page_footer {
   font-family: 'Montserrat', sans-serif;
   background-color:  #ffffff;
-  color: #E5E4E2;
+  color: #000000;
   text-align: center;
   font-size: 12px;
   vertical-align: middle;
@@ -41,7 +41,7 @@ section.page_footer {
 section.site_footer {
   font-family: 'Montserrat', sans-serif;
   background-color:  #ffffff;
-  color: #E5E4E2;
+  color: #000000;
   text-align: center;
   font-size: 12px;
   vertical-align: middle;
@@ -131,7 +131,7 @@ h2 {
 h3 {
   font-size: 1.2em !important;
   margin: 30px 0;
-  font-weight: 900;
+  font-weight: 900 !important;
   background-color: rgba(30,108,147,1);
   display: block;
   background-size: cover;
