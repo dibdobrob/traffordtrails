@@ -68,7 +68,7 @@ div.void {
  .fix{
     position:fixed;
     bottom:0px;
-    left:50%;
+    left:0px;
     }
 
 p.site-intro {
