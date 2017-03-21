@@ -65,6 +65,11 @@ div.void {
    padding: 0.5px;
 }
 
+ .fix{
+    position:fixed;
+    bottom:0px;
+    left:50%;
+    }
 
 p.site-intro {
   font-family: 'Montserrat', sans-serif;
