@@ -112,6 +112,7 @@ img {
     vertical-align: middle;
 }
 
+
 a {
   color: #fff;
 }
@@ -137,7 +138,7 @@ h3 {
   font-size: 1.2em !important;
   margin: 30px 0;
   font-weight: 900 !important;
-  background-color: rgba(30,108,147,1);
+  background-color: rgba(244,158,48,1);
   display: block;
   background-size: cover;
   display: table;
@@ -148,6 +149,8 @@ h3 {
   padding-bottom: 3px;
   padding-top: 3px;
   color: #fff;
+  font-variant: small-caps;
+  
 }
 
 div.container {
@@ -207,6 +210,12 @@ p.img-topright {
     font-family: Arial,Helvetica,freesans,sans-serif;
     line-height: 1.5;
     background-color: rgba(0, 0, 0, 0.498039); 
+}
+
+img.site_hero_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 
 header a,
