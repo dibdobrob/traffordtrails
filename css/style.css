@@ -129,9 +129,8 @@ h1 {
 }
 
 h2 { 
-  font-size: 1.8em;
-  margin: 15px 0;
-  color: #fff;
+  font-size: 1.4em !important;
+  color: #000 !important;
 }
 
 h3 {
