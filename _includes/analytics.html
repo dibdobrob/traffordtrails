@@ -31,7 +31,7 @@
 
 
 
-<!-- Google Analytics Outbound link tracking -->
+<!-- START Google Analytics Outbound link tracking -->
 
 <script>
 /**
@@ -41,13 +41,15 @@
 * using 'navigator.sendBeacon' in browser that support it.
 */
 var trackOutboundLink = function(url) {
-   ga('send', 'event', 'outbound', 'click', url, {
-     'transport': 'beacon',
-     'hitCallback': function(){document.location = url;}
-   });
+  gtag('event', 'click', {
+    'event_category': 'outbound',
+    'event_label': url,
+    'transport_type': 'beacon',
+    'event_callback': function(){document.location = url;}
+  });
 }
 </script>
 
-<!-- End Google Analytics Outbound link tracking -->
+<!-- END Google Analytics Outbound link tracking -->
 
 {% endif %}
