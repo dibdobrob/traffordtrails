@@ -1,6 +1,6 @@
-- name: Info
+- name: Home
   link: /home/
 - name: Results
-  link: /about/
-- name: Feedback
-  link: /contact/
+  link: /results/
+- name: News
+  link: /news/
