@@ -1,5 +1,5 @@
 ---
-layout: page_beta
+layout: page_beta_heading
 hero_text: Home Page Hero Text
 title: Home Page Title
 ---
@@ -8,13 +8,3 @@ Some text on home page, again
 
 {{ site }}
 {{ site.description }}
-
-<nav>
-{% for link in site.data.navigation %}
-{% assign class = "" %}
-{% if link.link == page.url %}
-{% assign class = class | append: " active" %}
-{% endif %}
-<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
-{% endfor %}
-</nav>
