@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Participant feedback
-excerpt: 2017 Participant feedback
-label: race-2017
+title: "Participant feedback"
+subtitle: "2017 Participant feedback"
+categories: photo
 ---
 
 Immediately after the 2017 race feedback came flooding in via email, facebook and twitter. Well done to both the race team and the participants! The event was definitely a great success.
