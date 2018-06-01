@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Participant feedback"
-subtitle: "2017 Participant feedback"
+title: "Fundraising Update"
+subtitle: "2017 Fundraising Update"
 categories: photo
 ---
 
