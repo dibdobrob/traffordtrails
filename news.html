@@ -16,18 +16,15 @@ title: News from Trafford Trails
        
        <h3>Race News</h3>
             
-        <ul>
+      
         {% for post in site.posts %}
-          <a href="{{ site.baseurl }}{{ post.url }}">      
-          <article class="post">
-                    <li>
-                    {{ post.title }}
-                    {{ post.excerpt }}
-                    </li>       
-          </article>
-          </a>
+           <br>
+          {{ post.url }}     
+          {{ post.title }}
+          {{ post.excerpt }}
+           <br>
         {% endfor %}
-        </ul>
+       
        
       <div class="col-1 menu">
       <div class="void"></div>
