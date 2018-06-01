@@ -4,16 +4,4 @@ hero_text: Test Page Hero Text
 title: Text Page Title
 ---
 
-some text
-
-<nav>
-
-	{% for link in site.data.navigation %}
-	{% assign class = "" %}
-
-		{% if link.link == page.url %}
-			{% assign class = class | append: " active" %}
-		{% endif %}
-		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
-	{% endfor %}
-</nav>
+Some text on test page
