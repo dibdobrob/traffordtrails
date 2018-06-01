@@ -21,7 +21,7 @@ title: News from Trafford Trails
         {% for post in site.posts %}
 	<li>
 		 <h2>{{ post.subtitle }}</h2>
-		 <br>{{ post.date | date_to_long_string }} 
+		     {{ post.date | date_to_long_string }} 
                  <br>{{ post.content }}
 	</li>
         {% endfor %}
