@@ -14,7 +14,7 @@ title: News from Trafford Trails
           
      <div class="article">
        
-       <h3>Race News</h3>
+       <h3>Race News v3</h3>
             
       
         <ul id="post-list">
@@ -22,7 +22,8 @@ title: News from Trafford Trails
 	    <li>
         <a href='{{ post.url | prepend: site.baseurl }}'><aside class="dates">{{ post.date | date: "%b %d" }}</aside></a>
         <a href='{{ post.url | prepend: site.baseurl }}'>{{ post.title }} {% if post.subtitle|length %}<h2>{{ post.subtitle }}</h2>{% endif %}</a>
-            </li>
+        <br>   {{ post.content }}
+		</li>
         {% endfor %}
         </ul> <!--post-list-->
        
