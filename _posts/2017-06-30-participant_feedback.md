@@ -1,8 +1,6 @@
 ---
 layout: article
 title: Participant feedback
-published: false
-thumbnail-path: https://dibdobrob.github.io/robertwadsworth/images/chalk.png
 excerpt: 2017 Participant feedback
 label: race-2017
 ---
