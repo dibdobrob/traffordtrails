@@ -1,8 +1,6 @@
-- name: Home
+- name: Race Info
   link: /home/
-- name: About
+- name: Results
   link: /about/
-- name: Recipes
-  link: /recipes/
-- name: Contact
+- name: Feedback
   link: /contact/
