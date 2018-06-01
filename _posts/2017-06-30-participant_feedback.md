@@ -7,14 +7,14 @@ categories: photo
 
 Immediately after the 2017 race feedback came flooding in via email, facebook and twitter. Well done to both the race team and the participants! The event was definitely a great success.
 
-### Feedback
+Here is what everyone said:
 
 - Miles of smiles!!
 - Both me and the other half thought last nights TT5 was a great event and well organised, very friendly also.
 - Many thanks for your efforts and all the marshals also.
 - A really friendly well organised event, thank you. 😊
 - Brilliant race, well done dragons 🐉 xxx.
-- Well done Robert Wadsworth. It would seem you smashed the event. I’m reading lots of positive status'. Hopefully I’m around for the next one. I believe a few of my guys came and raced 👍
+- Well done Robert Wadsworth. It would seem you smashed the event. I’m reading lots of positive status'. Hopefully I’m around for the next one. 👍
 - What a bloomin' marvellous evening! Thanks so much to Rob and all the team who made it happen 😁 xx
 - Fantastic race - well done Rob and all the marshals - you nailed it! Looking forward to the next one!
 - Fabulous thank you to everyone involved in the organisation
@@ -33,10 +33,7 @@ Immediately after the 2017 race feedback came flooding in via email, facebook an
 - Would just like to thank all who were involved with organising yesterday's race.
 - It was a great debut race and I really enjoyed it and hope it will return next year.
 - The medals were lovely and all the cakes and even watermelon at the finish made it even better!!
-Dear Rob 
-Many thanks for getting the results through so quickly. I'd also like to pass on my thanks to you and all of the team for a really enjoyable, well organised event. I loved the route, the martials were great and really supportive and the cake at the end was scrumptious! 
-know just how much work goes into organising these events so again, a big thanks. 
-Will look out for your next event! 
-All the best
+- really enjoyable, well organised event. 
+- I loved the route, the martials were great and really supportive and the cake at the end was scrumptious! 
 - Was a fab event!! Proud to be a dragon too ☺️🐉💚xxx 
-I'm so proud. Running club has given me sooooo many lovely friends, especially you ❤️🐉🐉
+- I'm so proud. Running club has given me sooooo many lovely friends
