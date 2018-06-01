@@ -1,10 +1,8 @@
 ---
 layout: article
-title: Fundraising update
-published: false
-thumbnail-path: https://dibdobrob.github.io/robertwadsworth/images/chalk.png
-excerpt: Fundraising update
-label: race-2017
+title: "Participant feedback"
+subtitle: "2017 Participant feedback"
+categories: photo
 ---
 
 ### Fundraising update
