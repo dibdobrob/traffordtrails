@@ -1,0 +1,35 @@
+---
+layout: article
+title: "2017 Results"
+subtitle: "2017 Results"
+categories: photo
+---
+
+What a great race! It was fab to see everyone putting in that little bit extra over the last 20meters!
+
+Congratulations to our winners:
+Rob Jowett of Sale Harriers who had almost a two minute lead over our very own grass cutter and Chorlton Runner Oliver Bernstein in second place.
+and 
+Sarah Douglas, also of the Harriers and also with a two minute lead over fellow Harrier Helen Armitage.
+
+Full results can be found here:[Link to 2017 Results](https://docs.google.com/spreadsheets/d/1--PonmWqkXS9_ViLjKRDHWappwZ4ABYcXCRcvvqE4ug/pub?gid=996950708&single=true&output=pdf).
+
+An here are some averages and the top 10.
+
+Average time for all runners - 45 min (average pace of 9 minute miles)  
+Average time for male runners - 42 min  
+Average time for female runners - 48 min   
+Average time for club runners - 43 min  
+Average time for unaffiliated runners - 47 min  
+
+1. Rob Jowett - Senior Male - Sale Harriers - 0:29:27   
+2. Oliver Bernstein - Senior Male - Chorlton Runners - 0:31:15  
+3. Craig Bradbury - Male Vet 41-50 - Sale Harriers 0:32:02  
+4. Rob Flannery - Senior Male - Sale Harriers 0:32:35  
+5. Alex Masidlover - Male Vet 35-40 - Gatley Runners 0:32:47  
+6. Brian W Birkmyre - Senior Male-  Chorlton Runners 0:32:57  
+7. Sarah Douglas - Senior Female - Sale Harriers 0:33:13  
+8. Aidan Raftery - Male Vet 51+ - Sale Harriers 0:33:34  
+9. Richard Kennaugh - Male Vet 41-50 - Unaffiliated 0:33:39  
+10. Rick Healy - Male Vet 41-50 - Dragons Running Club 0:33:58  
+
