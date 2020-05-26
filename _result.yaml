@@ -1,0 +1,43 @@
+example: abc
+
+race:
+
+- 
+
+   participant:    Sumire
+
+   email:   amethyst@mail.com
+
+   result:     012-111-1111
+
+   position: 1
+
+   race: tt5
+
+
+
+- 
+
+  participant:    Sumire
+
+  email:   amethyst@mail.com
+
+  result:     012-111-1111
+
+  position: 2
+
+  race: tt5
+
+
+
+- 
+
+  participant:    Sumire
+
+  email:   amethyst@mail.com
+
+  result:     012-111-1111
+
+  position: 3
+
+  race: tt5
