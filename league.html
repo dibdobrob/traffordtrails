@@ -25,6 +25,13 @@ title: League Results
           <div class="article">
 
                   <h3>League Results</h3>
+               <h1>{{ site.result.example }}</h1>
+
+<ul>
+{% for item in site.result.race %}
+<li>{{item.participant}}</li>
+{% endfor %}
+</ul>
           </div>
     </div>
 
