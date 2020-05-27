@@ -197,7 +197,7 @@ color: #000 !important;
 }
 
 div.speak-heading {
-font-weight: 400 !important;
+font-weight: 600 !important;
 font-size: 1.2em !important;
 margin: 20px 0;
 display: block;
@@ -207,7 +207,7 @@ position: relative;
 table-layout: fixed;
 width: 100%;
 color: #000000;
-text-align:left;   
+text-align:center;   
 }
 
 .speak-heading-strong {

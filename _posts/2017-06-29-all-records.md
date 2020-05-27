@@ -1,6 +1,6 @@
 ---
 layout: page_layout
-title: "All Event Reecords"
+title: "All Event Records"
 subtitle: "All Event Records"
 categories: results
 postref: results
