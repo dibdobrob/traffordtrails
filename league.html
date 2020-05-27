@@ -26,13 +26,19 @@ title: League Results
 
                   <h3>League Results June 5km Challenge</h3>
                <h1>{{ site.data.results.example }}</h1>
-              
+     
 <ul>
 {% for item in site.data.results.race %}
-<li>{{item.participant}}</li>
+{% if item.participant == "Wadsworth" and item.race == "tt5" %}
+
+<li>{{item.participant}}, {{item.race}}, {{item.result}}, {{item.position}}</li>
+
+{% endif %}
 {% endfor %}
 </ul>
-          </div>
+    
+    
+    </div>
     </div>
 
 
