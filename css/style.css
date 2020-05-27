@@ -78,6 +78,7 @@ div.article {
  padding-bottom: 5px;
  padding-left: 15px;
  padding-right: 15px;
+ text-align: center;
 }
 
 div.title_bar {
@@ -194,7 +195,14 @@ margin: 0;
 h2 { 
 font-size: 1.4em !important;
 color: #000 !important;
+font-weight: 600 !important;
 }
+
+h5 { 
+  font-size: 1.0em !important;
+  color: #000 !important;
+  font-weight: 500 !important;
+  }
 
 div.speak-heading {
 font-weight: 600 !important;
