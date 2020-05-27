@@ -1,10 +1,9 @@
-/*@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);*/
 
 section.site_heading {
-  /*background-image: url('http://traffordtrails.co.uk/images/header_one.png');*/
   background-color:  #ffffff;
   background-size: cover;
 }
+
 
 section.page_heading {
   font-family: 'Montserrat', sans-serif;
