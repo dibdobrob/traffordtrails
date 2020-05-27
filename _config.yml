@@ -61,7 +61,8 @@ baseurl: "https://edendigital.github.io/traffordtrails_beta"
 #Beta URL https://edendigital.github.io/traffordtrails_beta/
 #Live URL https://dibdobrob.github.io/traffordtrails
 # !! You don't need to change any of the configuration flags below !!
-#
+
+hero_image: TT5MV2.png
 
 permalink: /:title/
 
