@@ -2,7 +2,7 @@
 
 ## index.html
 
-- Defined by,site_layout.html
+- Defined by,page_layout.html
 
 ## site_layout.html
 
@@ -17,3 +17,7 @@
 ## _posts
 
 - Defined by post_layout.html
+
+## post_layout.html
+
+- Defined by default_layout.html
