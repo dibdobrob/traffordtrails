@@ -54,11 +54,15 @@ url: http://www.traffordtrails.co.uk
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://dibdobrob.github.io/traffordtrails"
 
-#
+baseurl: "https://edendigital.github.io/traffordtrails_beta"
+
+
+#Beta URL https://edendigital.github.io/traffordtrails_beta/
+#Live URL https://dibdobrob.github.io/traffordtrails
 # !! You don't need to change any of the configuration flags below !!
-#
+
+hero_image: TT5MV2.png
 
 permalink: /:title/
 
@@ -92,25 +96,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-race:
-- 
-   participant:    Sumire
-   email:   amethyst@mail.com
-   result:     012-111-1111
-   position: 1
-   race: tt5
-
-- 
-  participant:    Sumire
-  email:   amethyst@mail.com
-  result:     012-111-1111
-  position: 2
-  race: tt5
-
-- 
-  participant:    Sumire
-  email:   amethyst@mail.com
-  result:     012-111-1111
-  position: 3
-  race: tt5

@@ -1,10 +1,9 @@
-/*@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);*/
 
 section.site_heading {
-  /*background-image: url('http://traffordtrails.co.uk/images/header_one.png');*/
   background-color:  #ffffff;
   background-size: cover;
 }
+
 
 section.page_heading {
   font-family: 'Montserrat', sans-serif;
@@ -114,7 +113,7 @@ img {
 
 
 a {
-  color: #fff;
+  color: #000000;
 }
 
 p {
@@ -265,35 +264,7 @@ nav.main-nav a {
   float: right;
 }
 
- /*------*/
-
-
-/*------------------ Top menu using text------------------- 
-
-nav.main-nav ul {
-  height: 60px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  background-color:#1E1A34;
-  color: #fff;
-  font-size: 20px;
-  top: 0;
-  width: 100%; 
-}
-
-nav.main-nav li,
-nav.main-nav a {
-  display: inline-block;
-  padding-right: 10px;
-  padding-top: 10px;
-  float: right;
-  text-decoration: none;
-}
-
- */
-
-/*------------------ Content Item Menu ------------------- */
+ 
 
 .menu ul {
     list-style-type: none;

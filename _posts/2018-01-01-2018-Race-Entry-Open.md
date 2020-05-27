@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page_layout
 title: "2018 Race Entry Open"
 subtitle: "2018 Race Entry Open"
 categories: photo
