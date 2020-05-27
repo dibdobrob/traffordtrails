@@ -38,12 +38,12 @@ ol {
 }
 
 section.page_heading {
-background-color:  #E0FBFA;
+background-color:  #fff;
 
 }
 
 section.title_bar {
- background-color: #96e3df;
+ background-color: #ff9900;
 }
 
 section.quick-nav {
@@ -82,7 +82,7 @@ div.article {
 
 div.title_bar {
  color: white;
- text-align: left;
+ text-align: center;
  text-decoration: none;
  display: inline-block;
  padding-top: 5px;
