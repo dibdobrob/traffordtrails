@@ -1,45 +1,72 @@
 ---
+
 layout: basic_page_layout
+
 hero_text: Trafford Trails News and Updates
+
 title: News from Trafford Trails
+
 ---
+
+
 
 <div class="row"> 
 
 
+
+
+
         <div class="col-1 menu">
+
         <div class="void"> </div>
+
         </div>
+
     
+
         <div class="col-11 menu">
+
      
+
                 <div class="article">
+
        
+
                         <h3>Race News</h3>
+
                              
+
                        
+
                          <ul id="post-list">
+
                          {% for post in site.posts %}
-                         
-                         <!--  {% if post.categories == news %}-->
+
                          <li>
+
                                   <h2>{{ post.subtitle }}</h2>
+
                                       {{ post.date | date_to_long_string }} 
+
                                   <br>{{ post.content }}
+
                          </li>
-                         <!-- {% endif %}-->
 
                          {% endfor %}
+
                          </ul> 
+
     
+
         </div>
+
         <div class="col-1 menu">
+
         <div class="void"></div>
+
         </div>
+
     
+
 </div>
 
-
-
-
-     
