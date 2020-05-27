@@ -29,7 +29,7 @@ img.inline_article_image {
 }
 
 ul {
-  list-style-type: square;
+  list-style-type: none;
   margin: 16px;
 }
 
