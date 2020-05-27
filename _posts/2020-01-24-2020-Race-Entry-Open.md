@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post_layout
 title: "2020 Date Confirmed"
 subtitle: "2020 Date Confirmed"
 categories: photo

@@ -1,6 +1,0 @@
-index.html          <> site_layout.html
-
-site_layout.html    <> default_layout.html
-        - navigation_include.html
-             - relative-src.html
-        - heading_include.html
