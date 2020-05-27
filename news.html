@@ -20,6 +20,7 @@ title: News from Trafford Trails
                        
                          <ul id="post-list">
                          {% for post in site.posts %}
+                         
                          {% if post.categories == news %}
                          <li>
                                   <h2>{{ post.subtitle }}</h2>
@@ -27,6 +28,7 @@ title: News from Trafford Trails
                                   <br>{{ post.content }}
                          </li>
                          {% endif %}
+                         
                          {% endfor %}
                          </ul> 
     
