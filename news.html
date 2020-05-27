@@ -21,14 +21,14 @@ title: News from Trafford Trails
                          <ul id="post-list">
                          {% for post in site.posts %}
                          
-                         {% if post.categories == news %}
+                         <!--  {% if post.categories == news %}-->
                          <li>
                                   <h2>{{ post.subtitle }}</h2>
                                       {{ post.date | date_to_long_string }} 
                                   <br>{{ post.content }}
                          </li>
-                         {% endif %}
-                         
+                         <!-- {% endif %}-->
+
                          {% endfor %}
                          </ul> 
     
