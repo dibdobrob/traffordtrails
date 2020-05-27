@@ -114,17 +114,17 @@ a.left:link, a.left:visited
 
 a.middle:link, a.middle:visited 
 {
- background-color:  #fcd8eb;
+ background-color:  #ffc400;
 }
 
 a.right:link, a.right:visited 
 {
- background-color:  #e9d8fc;
+ background-color:  #ffd900;
 }
 
 a.left:hover, a.left:active, a.middle:hover, a.middle:active, a.right:hover, a.right:active 
 {
-background-color: #96e3df;
+background-color: #a6a6a6;
 }
 
 
