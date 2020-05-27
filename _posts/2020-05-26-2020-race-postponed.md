@@ -1,7 +1,7 @@
 ---
 layout: page_layout
-title: "2020 Date Confirmed"
-subtitle: "2020 Date Confirmed"
+title: "2020 Race Postponed"
+subtitle: "2020 Race Postponed"
 categories: photo
 ---
 
