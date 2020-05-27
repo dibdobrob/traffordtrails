@@ -2,7 +2,7 @@
 layout: page_layout
 title: "All Event Records"
 subtitle: "All Event Records"
-categories: results
+categories: content
 postref: results
 ---
 
