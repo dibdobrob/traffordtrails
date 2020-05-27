@@ -40,7 +40,9 @@ title: News from Trafford Trails
 
                          <ul id="post-list">
 
-                         {% for post in site.posts %}
+                        {% assign news_posts = site.posts | where: "categories", "news" %}
+                        
+                        {% for post in news_posts %}
 
                          <li>
 
