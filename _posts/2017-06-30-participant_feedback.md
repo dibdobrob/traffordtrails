@@ -1,5 +1,5 @@
 ---
-layout: post_layout
+layout: page_layout
 title: "Participant feedback"
 subtitle: "2017 Participant feedback"
 categories: photo

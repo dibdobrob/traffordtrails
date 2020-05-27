@@ -1,5 +1,5 @@
 ---
-layout: post_layout
+layout: page_layout
 title: "Fundraising Update"
 subtitle: "£900 confirmed for our charitable causes"
 categories: photo
