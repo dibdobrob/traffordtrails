@@ -5,7 +5,7 @@
     {% include meta.html %}
     
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
     <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
     <link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
    
@@ -14,10 +14,9 @@
     
         {{ content }}
     
-    <script id="dsq-count-scr" src="//robert-wadsworth.disqus.com/count.js" async></script>
-    
-        <img src="http://www.traffordtrails.co.uk/images/footer.png" class="fixed">
+        <img src="{{ site.baseurl }}/images/footer.png" class="fixed">
     </body>
+    
     {% include analytics.html %}
 
     </html>
