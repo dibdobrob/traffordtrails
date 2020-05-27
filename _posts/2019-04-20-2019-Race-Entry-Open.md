@@ -1,8 +1,10 @@
 ---
-layout: page_layout
+layout: basic_page_layout
 title: "2019 Date Confirmed"
 subtitle: "2019 Date Confirmed"
-categories: photo
+postref: block0
+categories: 
+- photo
 ---
 
 This years event will take place on Thursday July 18th 2019.
