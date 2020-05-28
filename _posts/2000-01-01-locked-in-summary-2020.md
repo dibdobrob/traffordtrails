@@ -6,6 +6,8 @@ postref: lockin-summary
 categories: content
 ---
 
+![League Logo]({{ site.baseurl }}/images/LOCKEDIN.png)
+
 some text about the Locked-In League.
 
 some text about the Locked-In League.
