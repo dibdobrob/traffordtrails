@@ -1,6 +1,6 @@
 ---
 
-layout: basic_page_layout
+layout: single_column_layout
 
 hero_text: Trafford Trails News and Updates
 
@@ -8,67 +8,24 @@ title: News from Trafford Trails
 
 ---
 
-
-
-<div class="row"> 
-
-
-
-
-
-        <div class="col-1 menu">
-
-        <div class="void"> </div>
-
-        </div>
-
-    
-
-        <div class="col-11 menu">
-
-     
-
-                <div class="article">
-
-       
-
-                        <h3>Race News</h3>
-
+<h3>Race News</h3>
                              
+<ul id="post-list">
 
-                       
-
-                         <ul id="post-list">
-
-                        {% assign news_posts = site.posts | where: "categories", "news" %}
+{% assign news_posts = site.posts | where: "categories", "news" %}
                         
-                        {% for post in news_posts %}
+{% for post in news_posts %}
 
-                         <li>
+        <li>
 
-                                  <h2>{{ post.subtitle }}</h2>
+        <h2>{{ post.subtitle }}</h2>
 
-                                      {{ post.date | date_to_long_string }} 
+        {{ post.date | date_to_long_string }} 
 
-                                  <br>{{ post.content }}
+        <br>{{ post.content }}
 
-                         </li>
+        </li>
 
-                         {% endfor %}
+        {% endfor %}
 
-                         </ul> 
-
-    
-
-        </div>
-
-        <div class="col-1 menu">
-
-        <div class="void"></div>
-
-        </div>
-
-    
-
-</div>
-
+ </ul> 
