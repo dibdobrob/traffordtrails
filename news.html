@@ -8,22 +8,17 @@ title: News from Trafford Trails
 
 ---
                             
-<ul id="post-list">
+
 
 {% assign news_posts = site.posts | where: "categories", "news" %}
                         
 {% for post in news_posts %}
 
-        <li>
-
         <h2>{{ post.subtitle }}</h2>
 
         {{ post.date | date_to_long_string }} 
 
-        <br>{{ post.content }}
+        <br>{{ post.content }}<br>
 
-        </li>
+{% endfor %}
 
-        {% endfor %}
-
- </ul> 
