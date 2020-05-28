@@ -1,9 +1,8 @@
 ---
 layout: page_layout
-title: "June 2020 - The Random Trail League"
-subtitle: "June 2020 - The Random Trail League"
-postref: league
-categories: content
+title: "NEW EVENT - The Random 5km Trail League"
+subtitle: "NEW EVENT - The Random 5km Trail League"
+categories: news
 ---
 
 Trafford Trails was established to raise the profile of Manchester's beautiful trails, there’s 100’s of them and most of them are completely unknown to the majority of runners.
