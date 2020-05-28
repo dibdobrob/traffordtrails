@@ -8,11 +8,13 @@ categories: content
 
 ![League Logo]({{ site.baseurl }}/images/LOCKEDIN.png)
 
-some text about the Locked-In League.
-
-some text about the Locked-In League.
-
-some text about the Locked-In League.
-
 Find out more on our **[2020 Locked-In League - Event Information Page]({{ site.baseurl }}/locked-in-detail-2020/)**
+
+some text about the Locked-In League.
+
+some text about the Locked-In League.
+
+some text about the Locked-In League.
+
+
 

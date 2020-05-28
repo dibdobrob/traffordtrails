@@ -1,7 +1,7 @@
 ---
 layout: page_layout
 title: "All Event Results"
-subtitle: "All Event Results"
+hero_text: "All Event Results"
 categories: content
 postref: results
 ---
