@@ -1,7 +1,7 @@
 ---
 layout: single_column_layout
-title: "Event Informaton - The Lock-in League - 2020"
-subtitle: "Event Informaton - The Lock-in League - 2020"
+title: "The Locked-In League"
+subtitle: "The Locked-In League"
 postref: lockin-summary
 categories: content
 ---
