@@ -6,9 +6,9 @@ athlete_summary:
 
    athlete_id:    abc123
 
-   athlete:    Wadsworth
+   athlete:    Robert Wadsworth
 
-   best_time:   23:48
+   best_time:   "23:48"
 
    run_count:   2
 
@@ -20,9 +20,9 @@ athlete_summary:
 
    athlete_id:    abc124
 
-   athlete:    Jines
+   athlete:    Clarence Jones
 
-   best_time:   23:60
+   best_time:   "23:60"
 
    run_count:    3
    
@@ -34,9 +34,9 @@ athlete_summary:
 
    athlete_id:    abc125
 
-   athlete:    Smith
+   athlete:    James Smith
 
-   best_time:   29:48
+   best_time:   "29:48"
 
    run_count:    6
    
