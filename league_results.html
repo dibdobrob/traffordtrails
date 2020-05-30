@@ -19,7 +19,9 @@ layout: single_column_layout
        vertical-align:top;will-change:transform}
      .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
      </style>
-     <table class="tg">
+
+</br>
+<table class="tg">
      <thead>
        <tr>
          <th class="tg-9abe">Athlete</th>
@@ -29,43 +31,22 @@ layout: single_column_layout
          <th class="tg-9abe">Points</th>
        </tr>
      </thead>
+
+     {% for item in site.data.results.race %}
+    <!-- {% if item.participant == "Wadsworth" %}-->
      <tbody>
        <tr>
-         <td class="tg-fymr">Pedro Pony with a really long name ? arghh</td>
-         <td class="tg-c3ow">23:41</td>
-         <td class="tg-c3ow">1</td>
-         <td class="tg-c3ow">link</td>
+         <td class="tg-fymr">{{item.participant}}</td>
+         <td class="tg-c3ow">{{item.race}}</td>
+         <td class="tg-c3ow">{{item.result}}</td>
+         <td class="tg-c3ow">{{item.position}}</td>
          <td class="tg-c3ow">6</td>
        </tr>
-       <tr>
-         <td class="tg-fymr">Suzy sheep</td>
-         <td class="tg-c3ow">28:76</td>
-         <td class="tg-c3ow">2</td>
-         <td class="tg-c3ow">link</td>
-         <td class="tg-c3ow">8</td>
-       </tr>
-       <tr>
-         <td class="tg-fymr">Peppa Pg</td>
-         <td class="tg-c3ow">44:67</td>
-         <td class="tg-c3ow">2</td>
-         <td class="tg-c3ow">link</td>
-         <td class="tg-c3ow">10</td>
-       </tr>
      </tbody>
+
+     <!--  {% endif %} --> 
+     {% endfor %}
+
      </table>
 
-
-
-
-<!---           
-     
-<ul>
-{% for item in site.data.results.race %}
-{% if item.participant == "Wadsworth" %}
-
-<li>{{item.participant}}, {{item.race}}, {{item.result}}, {{item.position}}</li>
-
-{% endif %}
-{% endfor %}
-</ul>
---->   
+  
