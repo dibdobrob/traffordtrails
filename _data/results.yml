@@ -6,7 +6,7 @@ athlete_summary:
 
    athlete_id:    abc123
 
-   athlete:    Robert Wadsworth
+   athlete:    Pedro Pony
 
    best_time:   "23:48"
 
@@ -20,7 +20,7 @@ athlete_summary:
 
    athlete_id:    abc124
 
-   athlete:    Clarence Jones
+   athlete:    Pepa Pig
 
    best_time:   "23:60"
 
@@ -34,7 +34,7 @@ athlete_summary:
 
    athlete_id:    abc125
 
-   athlete:    James Smith
+   athlete:    Suzy Sheep
 
    best_time:   "29:48"
 
@@ -42,4 +42,4 @@ athlete_summary:
    
    club: Harriers
 
-   points: 13
+   points: 5
