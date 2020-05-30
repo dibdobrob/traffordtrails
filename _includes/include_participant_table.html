@@ -1,9 +1,9 @@
 ---
 
 layout: single_column_layout
-hero_text: League Table
-title: League Table
-layout: single_column_layout
+hero_text: Participant results
+title: Participant results
+layout: Participant results
 
 ---
 
@@ -33,7 +33,8 @@ layout: single_column_layout
 
      {% assign results_by_points = site.data.results.athlete_summary | sort: "points" | reverse %}
      {% for item in results_by_points %}
-   
+     {% if item.athlete_id == include.athlete_id %}
+
      <tbody>
        <tr>
          <td class="tg-fymr">{{item.athlete}}</td>
@@ -44,8 +45,7 @@ layout: single_column_layout
        </tr>
      </tbody>
     
+     {% endif %}
      {% endfor %}
 
      </table>
-
-  
