@@ -20,30 +20,30 @@ layout: single_column_layout
      .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
      </style>
 
-</br></br>
+</br>
 <table class="tg">
      <thead>
        <tr>
          <th class="tg-9abe">Athlete</th>
          <th class="tg-9abe">Best time</th>
          <th class="tg-9abe">Runs</th>
-         <th class="tg-9abe">Page</th>
+         <th class="tg-9abe">Club</th>
          <th class="tg-9abe">Points</th>
        </tr>
      </thead>
 
-     {% for item in site.data.results.race %}
-    <!-- {% if item.participant == "Wadsworth" %}-->
+     {% for item in site.data.results.athlete_summary %}
+   
      <tbody>
        <tr>
-         <td class="tg-fymr">{{item.participant}}</td>
-         <td class="tg-c3ow">{{item.race}}</td>
-         <td class="tg-c3ow">{{item.result}}</td>
-         <td class="tg-c3ow">{{item.position}}</td>
-         <td class="tg-c3ow">6</td>
+         <td class="tg-fymr">{{item.athlete}}</td>
+         <td class="tg-c3ow">{{item.best_time}}</td>
+         <td class="tg-c3ow">{{item.run_count}}</td>
+         <td class="tg-c3ow">{{item.club}}</td>
+         <td class="tg-c3ow">{{item.points}}</td>
        </tr>
      </tbody>
-     <!--  {% endif %} --> 
+    
      {% endfor %}
 
      </table>
