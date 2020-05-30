@@ -2,7 +2,7 @@
 layout: single_column_layout
 title: "The Random 5km Trail League"
 hero_text: "Event Informaton - The Random 5km Trail League"
-postref: league-table
+postref: leaguetable
 categories: content
 ---
 
