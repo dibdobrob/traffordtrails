@@ -32,7 +32,7 @@ layout: single_column_layout
        </tr>
      </thead>
 
-     {% assign results_by_points = site.data.results.athlete_summary | sort: "points" %}
+     {% assign results_by_points = site.data.results.athlete_summary | sort: "points" | reverse %}
      {% for item in results_by_points %}
    
      <tbody>
