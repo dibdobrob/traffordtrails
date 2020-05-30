@@ -6,8 +6,8 @@ postref: league-detail
 categories: content
 ---
 
-| Athlete    	| Best time 	| Runs 	| Page 	| Points 	|
-|------------	|-----------	|------	|------	|--------	|
-| Pedro Pony 	| 23:41     	| 1    	| link 	| 6      	|
-| Suzy sheep 	| 28:76     	| 2    	| link 	| 8      	|
-| Peppa Pg   	| 44:67     	| 2    	| link 	| 10     	|
+| Athlete    	    | Best time 	    | Runs 	            | Page 	            | Points 	        |
+|-------------------|-------------------|-------------------|-------------------|-------------------|
+| Pedro Pony 	    | 23:41     	    | 1    	            | link 	            | 6      	        |
+| Suzy sheep 	    | 28:76     	    | 2    	            | link 	            | 8      	        |
+| Peppa Pg   	    | 44:67     	    | 2    	            | link 	            | 10     	        |
