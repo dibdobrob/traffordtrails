@@ -4,7 +4,7 @@ athlete_summary:
 
 - 
 
-   athlete_id:    abc123
+   athlete_id:    "01"
 
    athlete:    Pedro Pony
 
@@ -18,7 +18,7 @@ athlete_summary:
 
 - 
 
-   athlete_id:    abc124
+   athlete_id:    "01"
 
    athlete:    Pepa Pig
 
@@ -32,7 +32,7 @@ athlete_summary:
 
 - 
 
-   athlete_id:    abc125
+   athlete_id:    "02"
 
    athlete:    Suzy Sheep
 
