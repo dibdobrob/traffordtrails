@@ -1,43 +1,45 @@
 example: abc
 
-race:
+athlete_summary:
 
 - 
 
-   participant:    Wadsworth
+   athlete_id:    abc123
 
-   email:   amethyst@mail.com
+   athlete:    Wadsworth
 
-   result:     23:48
+   best_time:   23:48
 
-   position: 1
+   run_count:   2
 
-   race: tt5
+   club: Dragons
 
-
-
-- 
-
-  participant:    Wadsworth
-
-  email:   amethyst@mail.com
-
-  result:    22:52
-
-  position: 2
-
-  race: tt5
-
-
+   points: 12
 
 - 
 
-  participant:    Smith
+   athlete_id:    abc124
 
-  email:   amethyst@mail.com
+   athlete:    Jines
 
-  result:     34:65
+   best_time:   23:60
 
-  position: 3
+   run_count:    3
+   
+   club: Harriers
 
-  race: tt5
+   points: 13
+
+- 
+
+   athlete_id:    abc125
+
+   athlete:    Smith
+
+   best_time:   29:48
+
+   run_count:    6
+   
+   club: Harriers
+
+   points: 13
