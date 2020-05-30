@@ -8,7 +8,7 @@ race:
 
    email:   amethyst@mail.com
 
-   result:     012-111-1111
+   result:     23:48
 
    position: 1
 
@@ -18,11 +18,11 @@ race:
 
 - 
 
-  participant:    Jones
+  participant:    Wadsworth
 
   email:   amethyst@mail.com
 
-  result:     012-111-1111
+  result:    22:52
 
   position: 2
 
@@ -36,7 +36,7 @@ race:
 
   email:   amethyst@mail.com
 
-  result:     012-111-1111
+  result:     34:65
 
   position: 3
 
