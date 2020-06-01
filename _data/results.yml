@@ -2,44 +2,59 @@ example: abc
 
 athlete_summary:
 
-- 
-
-   athlete_id:    "01"
-
-   athlete:    Pedro Pony
-
-   best_time:   "23:48"
-
-   run_count:  2
-
-   club: Dragons
-
-   points: 19
-
-- 
-
-   athlete_id:    "01"
-
-   athlete:    Pepa Pig
-
-   best_time:   "23:60"
-
-   run_count:    3
-   
-   club: Harriers
-
-   points: 3
-
-- 
-
-   athlete_id:    "02"
-
-   athlete:    Suzy Sheep
-
-   best_time:   "29:48"
-
-   run_count:    6
-   
-   club: Harriers
-
-   points: 7
+-
+    athlete: Rob Wadsworth
+    club: Dragons Running Club (Sale)
+    athlete_id: r0001
+    best_time: 23 min 8 sec
+    run_count: 1
+    points: 11
+-
+    athlete: Jane Damerum 
+    club: Dragons Running Club (Sale)
+    athlete_id: r0002
+    best_time: 29 min 8 sec
+    run_count: 1
+    points: 11
+-
+    athlete: Joanne  Healy
+    club: Dragons Running Club (Sale)
+    athlete_id: r0003
+    best_time: 24 min 8 sec
+    run_count: 1
+    points: 10
+-
+    athlete: Anne Kelly
+    club: Dragons Running Club (Sale)
+    athlete_id: r0004
+    best_time: 27 min 28 sec
+    run_count: 1
+    points: 7
+-
+    athlete: Lou Armstrong
+    club: Run The Joules
+    athlete_id: r0005
+    best_time: 26 min 1 sec
+    run_count: 1
+    points: 8
+-
+    athlete: Melanie
+    club: Sale harriers 
+    athlete_id: r0006
+    best_time: 22 min 6 sec
+    run_count: 1
+    points: 7
+-
+    athlete: Sara Wadsworth
+    club: 
+    athlete_id: r0007
+    best_time: 27 min 13 sec
+    run_count: 1
+    points: 10
+-
+    athlete: Scott Damerum
+    club: Dragons Running Club (Sale)
+    athlete_id: r0008
+    best_time: 28 min 57 sec
+    run_count: 1
+    points: 8
