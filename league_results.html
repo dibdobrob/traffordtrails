@@ -36,7 +36,7 @@ title: League Table
        </tr>
      </thead>
 
-     {% assign results_by_points = site.data.results.athlete_summary | sort: "points" | reverse %}
+     {% assign results_by_points = site.data.results.athlete_summary | sort: "order" %}
      {% for item in results_by_points %}
    
      <tbody>
