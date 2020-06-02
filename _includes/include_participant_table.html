@@ -20,7 +20,7 @@
          <th class="tg-9abe">Best time</th>
          <th class="tg-9abe">Runs</th>
          <th class="tg-9abe">Club</th>
-         <th class="tg-9abe">Points</th>
+         <th class="tg-9abe">Total Points</th>
          <th class="tg-9abe">Waterside run</th>
          <th class="tg-9abe">Early run</th>
          <th class="tg-9abe">2 % run</th>
@@ -43,15 +43,15 @@
         <td class="tg-c3ow">{{item.best_time}}</td>
         <td class="tg-c3ow">{{item.run_count}}</td>
         <td class="tg-c3ow">{{item.club}}</td>
-        <td class="tg-c3ow">{{item.points}}</td>
+        <td class="tg-c3ow"><strong>{{item.points}}</strong></td>
         <td class="tg-c3ow">{{item.water}}</td>
         <td class="tg-c3ow">{{item.early}}</td>
         <td class="tg-c3ow">{{item.2percent}}</td>
         <td class="tg-c3ow">{{item.250ascent}}</td>
         <td class="tg-c3ow">{{item.selfie}}</td>
-        <td class="tg-c3ow">{{run_point}}</td>
-        <td class="tg-c3ow">{{time_points}}</td>
-        <td class="tg-c3ow">{{daily_double}}</td>
+        <td class="tg-c3ow">{{item.run_point}}</td>
+        <td class="tg-c3ow">{{item.time_points}}</td>
+        <td class="tg-c3ow">{{item.daily_double}}</td>
        </tr>
      </tbody>
     
@@ -59,3 +59,5 @@
      {% endfor %}
 
      </table>
+    </br></br>
+     <a href="https://www.traffordtrails.co.uk/league_results/">View full league table</a>
