@@ -68,6 +68,22 @@ athlete_summary:
     daily_double: 0
 -
     order: 5
+    athlete: Trevor Holliday 
+    club: Run The Joules
+    athlete_id: athlete_9
+    best_time: 21 min 28 sec
+    run_count: 2
+    points: 11
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 8
+    time_points: 2
+    daily_double: 0
+-
+    order: 6
     athlete: Scott Damerum
     club: Dragons Running Club (Sale)
     athlete_id: athlete_8
@@ -83,7 +99,7 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 6
+    order: 7
     athlete: Jen Simpson
     club: Dragons running club (sale)
     athlete_id: athlete_12
@@ -99,7 +115,7 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 7
+    order: 8
     athlete: Rob Wadsworth
     club: Dragons Running Club (Sale)
     athlete_id: athlete_1
@@ -107,22 +123,6 @@ athlete_summary:
     run_count: 1
     points: 8
     water: 1
-    early: 0
-    2percent: 0
-    250ascent: 0
-    selfie: 0
-    run_points: 5
-    time_points: 2
-    daily_double: 0
--
-    order: 8
-    athlete: Trevor Holliday 
-    club: Run The Joules
-    athlete_id: athlete_9
-    best_time: 21 min 58 sec
-    run_count: 1
-    points: 7
-    water: 0
     early: 0
     2percent: 0
     250ascent: 0
