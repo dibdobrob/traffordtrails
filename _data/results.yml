@@ -3,74 +3,194 @@ example: abc
 athlete_summary:
 
 -
+    order: 1
+    athlete: Phil Jackson
+    club: Independent
+    athlete_id: r0010
+    best_time: 22 min 22 sec
+    run_count: 2
+    points: 16
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 8
+    time_points: 2
+    daily_double: 2
+-
+    order: 2
     athlete: Lou Armstrong
     club: Run The Joules
     athlete_id: r0005
-    best_time: 26 min 1 sec
-    run_count: 1
-    points: 11
-    order: 1
+    best_time: 24 min 1 sec
+    run_count: 2
+    points: 15
+    water: 1
+    early: 1
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 8
+    time_points: 2
+    daily_double: 0
 -
+    order: 3
+    athlete: Jane Damerum 
+    club: Dragons Running Club (Sale)
+    athlete_id: r0002
+    best_time: 28 min 8 sec
+    run_count: 2
+    points: 14
+    water: 1
+    early: 1
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 8
+    time_points: 1
+    daily_double: 0
+-
+    order: 4
     athlete: Scott Damerum
     club: Dragons Running Club (Sale)
     athlete_id: r0008
     best_time: 28 min 57 sec
     run_count: 1
     points: 11
-    order: 2
+    water: 1
+    early: 1
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 5
+    time_points: 1
+    daily_double: 0
 -
-    athlete: Jane Damerum 
-    club: Dragons Running Club (Sale)
-    athlete_id: r0002
-    best_time: 29 min 8 sec
-    run_count: 1
-    points: 11
-    order: 3
--
-    athlete: Trevor Holliday 
-    club: Run The Joules
-    athlete_id: r0009
-    best_time: 21 min 58 sec
+    order: 5
+    athlete: Jen Simpson
+    club: Dragons running club (sale)
+    athlete_id: r0012
+    best_time: 27 min 12 sec
     run_count: 1
     points: 10
-    order: 4
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 5
+    time_points: 1
+    daily_double: 0
 -
+    order: 6
     athlete: Anne Kelly
     club: Dragons Running Club (Sale)
     athlete_id: r0004
     best_time: 27 min 28 sec
     run_count: 1
     points: 10
-    order: 5
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 5
+    time_points: 1
+    daily_double: 0
 -
+    order: 7
     athlete: Rob Wadsworth
     club: Dragons Running Club (Sale)
     athlete_id: r0001
     best_time: 23 min 8 sec
     run_count: 1
     points: 8
-    order: 6
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 5
+    time_points: 2
+    daily_double: 0
 -
+    order: 8
+    athlete: Trevor Holliday 
+    club: Run The Joules
+    athlete_id: r0009
+    best_time: 21 min 58 sec
+    run_count: 1
+    points: 7
+    water: 0
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 5
+    time_points: 2
+    daily_double: 0
+-
+    order: 9
     athlete: Melanie
     club: Sale harriers 
     athlete_id: r0006
     best_time: 22 min 6 sec
     run_count: 1
     points: 7
-    order: 7
+    water: 0
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 5
+    time_points: 2
+    daily_double: 0
 -
+    order: 10
     athlete: Joanne  Healy
     club: Dragons Running Club (Sale)
     athlete_id: r0003
     best_time: 24 min 8 sec
     run_count: 1
     points: 7
-    order: 8
+    water: 0
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 5
+    time_points: 2
+    daily_double: 0
 -
+    order: 11
+    athlete: Jess Laffly
+    club: Independent
+    athlete_id: r0011
+    best_time: 25 min 53 sec
+    run_count: 1
+    points: 7
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 5
+    time_points: 1
+    daily_double: 0
+-
+    order: 12
     athlete: Sara Wadsworth
     club: Independent
     athlete_id: r0007
     best_time: 27 min 13 sec
     run_count: 1
     points: 7
-    order: 9
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 5
+    time_points: 1
+    daily_double: 0
