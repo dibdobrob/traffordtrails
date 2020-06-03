@@ -231,117 +231,156 @@ runs:
 
 -
     athlete_id: athlete_8
+    athlete: Scott Damerum
     date: 1st June
     duration: 28 min 57 sec
 -
     athlete_id: athlete_5
+    athlete: Lou Armstrong
     date: 1st June
     duration: 26 min 1 sec
 -
     athlete_id: athlete_4
+    athlete: Anne Kelly
     date: 1st June
     duration: 27 min 28 sec
 -
     athlete_id: athlete_1
+    athlete: Rob Wadsworth
     date: 1st June
     duration: 23 min 8 sec
 -
     athlete_id: athlete_3
+    athlete: Joanne  Healy
     date: 1st June
     duration: 24 min 8 sec
 -
     athlete_id: athlete_7
+    athlete: Sara Wadsworth
     date: 1st June
     duration: 27 min 13 sec
 -
     athlete_id: athlete_2
+    athlete: Jane Damerum 
     date: 1st June
     duration: 29 min 8 sec
 -
     athlete_id: athlete_6
+    athlete: Melanie
     date: 1st June
     duration: 22 min 6 sec
 -
     athlete_id: athlete_9
+    athlete: Trevor Holliday 
     date: 1st June
     duration: 21 min 58 sec
 -
     athlete_id: athlete_2
+    athlete: Jane Damerum 
     date: 2nd June
     duration: 28 min 39 sec
 -
     athlete_id: athlete_11
+    athlete: Jess Laffly
     date: 1st June
     duration: 25 min 53 sec
 -
     athlete_id: athlete_10
+    athlete: Phil Jackson
     date: 2nd June
     duration: 22 min 22 sec
 -
     athlete_id: athlete_10
+    athlete: Phil Jackson
     date: 2nd June
     duration: 24 min 41 sec
 -
     athlete_id: athlete_5
+    athlete: Lou Armstrong
     date: 2nd June
     duration: 24 min 10 sec
 -
     athlete_id: athlete_12
+    athlete: Jen Simpson
     date: 2nd June
     duration: 27 min 12 sec
 -
     athlete_id: athlete_14
+    athlete: Andy Land
     date: 2nd June
     duration: 24 min 16 sec
 -
     athlete_id: athlete_13
+    athlete: Andy Blackburn
     date: 1st June
     duration: 28 min 35 sec
 -
     athlete_id: athlete_4
+    athlete: Anne Kelly
     date: 2nd June
     duration: 30 min 27 sec
 -
     athlete_id: athlete_9
+    athlete: Trevor Holliday
     date: 2nd June
     duration: 23 min 28 sec
 -
     athlete_id: athlete_17
+    athlete: Sharon Gibbs
     date: 2nd June
     duration: 32 min 10 sec
 -
     athlete_id: athlete_15
+    athlete: Fiona Roberts
     date: 1st June
     duration: 30 min 27 sec
 -
     athlete_id: athlete_15
+    athlete: Fiona Roberts
     date: 2nd June
     duration: 31 min 34 sec
 -
     athlete_id: athlete_1
+    athlete: Rob Wadsworth
     date: 3rd June
     duration: 23 min 30 sec
 -
     athlete_id: athlete_16
+    athlete: Jackie Cordingley
     date: 3rd June
     duration: 28 min 21 sec
 -
     athlete_id: athlete_11
+    athlete: Jess Laffly
     date: 3rd June
     duration: 24 min 34 sec
 -
     athlete_id: athlete_11
+    athlete: Jess Laffly
     date: 3rd June
     duration: 26 min 37 sec
 -
     athlete_id: athlete_18
+    athlete: Jo Clarke
     date: 3rd June
     duration: 28 min 40 sec
 -
     athlete_id: athlete_10
+    athlete: Phil Jackson
     date: 3rd June
     duration: 22 min 15 sec
 -
     athlete_id: athlete_3
+    athlete: Joanne  Healy
     date: 3rd June
     duration: 25 min 59 sec
+-
+    athlete_id: athlete_2
+    athlete: Jane Damerum 
+    date: 3rd June
+    duration: 29 min 9 sec
+-
+    athlete_id: athlete_14
+    athlete: Andy Land
+    date: 3rd June
+    duration: 21 min 55 sec

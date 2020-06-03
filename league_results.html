@@ -57,4 +57,31 @@ title: League Table
 
      </table>
 
+
+    </br>
+
+  </br>
+  <table class="tg">
+       <thead>
+         <tr>
+          <th class="tg-9abe">Athlete</th>
+          <th class="tg-9abe">Date</th>
+          <th class="tg-9abe">Duration</th>
+         </tr>
+       </thead>
+  
+       {% assign results_by_date = site.data.results.runs | sort: "duration" %}
+       {% for run in results_by_date %}
+      
+       <tbody>
+         <tr>
+          <td class="tg-fymr">{{run.athlete}}</td>
+          <td class="tg-fymr">{{run.date}}</td>
+          <td class="tg-fymr">{{run.duration}}</td>
+       </tbody>
+      
+       {% endfor %}
+  
+       </table>
+
   
