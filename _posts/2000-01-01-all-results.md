@@ -6,6 +6,10 @@ categories: content
 postref: results
 ---
 
+##### 2020 League Table
+
+[2019 Results]({{ site.baseurl }}/league_results/)
+
 ##### Combined Results
 
 [Combined Results 2017 to 2019]({{ site.baseurl }}/documents/Trafford-Trails-All-Time-Race-Results.pdf)
