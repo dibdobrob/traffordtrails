@@ -61,3 +61,27 @@
      </table>
     </br>
     <strong><a href="https://www.traffordtrails.co.uk/league_results/">View full league table</a></strong> 
+
+  </br>
+  <table class="tg">
+       <thead>
+         <tr>
+          <th class="tg-9abe">Date</th>
+           <th class="tg-9abe">Duration</th>
+         </tr>
+       </thead>
+  
+       {% assign results_by_date = site.data.results.runs | sort: "date" | reverse %}
+       {% for run in results_by_date %}
+       {% if run.athlete_id == include.athlete_id %}
+  
+       <tbody>
+         <tr>
+          <td class="tg-fymr">{{run.date}}</td>
+          <td class="tg-fymr">{{run.duration}}</td>
+       </tbody>
+      
+       {% endif %}
+       {% endfor %}
+  
+       </table>

@@ -226,3 +226,122 @@ athlete_summary:
     run_points: 5
     time_points: 1
     daily_double: 0
+
+runs:
+
+-
+    athlete_id: athlete_8
+    date: 1st June
+    duration: 28 min 57 sec
+-
+    athlete_id: athlete_5
+    date: 1st June
+    duration: 26 min 1 sec
+-
+    athlete_id: athlete_4
+    date: 1st June
+    duration: 27 min 28 sec
+-
+    athlete_id: athlete_1
+    date: 1st June
+    duration: 23 min 8 sec
+-
+    athlete_id: athlete_3
+    date: 1st June
+    duration: 24 min 8 sec
+-
+    athlete_id: athlete_7
+    date: 1st June
+    duration: 27 min 13 sec
+-
+    athlete_id: athlete_2
+    date: 1st June
+    duration: 29 min 8 sec
+-
+    athlete_id: athlete_6
+    date: 1st June
+    duration: 22 min 6 sec
+-
+    athlete_id: athlete_9
+    date: 1st June
+    duration: 21 min 58 sec
+-
+    athlete_id: athlete_2
+    date: 2nd June
+    duration: 28 min 39 sec
+-
+    athlete_id: athlete_11
+    date: 1st June
+    duration: 25 min 53 sec
+-
+    athlete_id: athlete_10
+    date: 2nd June
+    duration: 22 min 22 sec
+-
+    athlete_id: athlete_10
+    date: 2nd June
+    duration: 24 min 41 sec
+-
+    athlete_id: athlete_5
+    date: 2nd June
+    duration: 24 min 10 sec
+-
+    athlete_id: athlete_12
+    date: 2nd June
+    duration: 27 min 12 sec
+-
+    athlete_id: athlete_14
+    date: 2nd June
+    duration: 24 min 16 sec
+-
+    athlete_id: athlete_13
+    date: 1st June
+    duration: 28 min 35 sec
+-
+    athlete_id: athlete_4
+    date: 2nd June
+    duration: 30 min 27 sec
+-
+    athlete_id: athlete_9
+    date: 2nd June
+    duration: 23 min 28 sec
+-
+    athlete_id: athlete_17
+    date: 2nd June
+    duration: 32 min 10 sec
+-
+    athlete_id: athlete_15
+    date: 1st June
+    duration: 30 min 27 sec
+-
+    athlete_id: athlete_15
+    date: 2nd June
+    duration: 31 min 34 sec
+-
+    athlete_id: athlete_1
+    date: 3rd June
+    duration: 23 min 30 sec
+-
+    athlete_id: athlete_16
+    date: 3rd June
+    duration: 28 min 21 sec
+-
+    athlete_id: athlete_11
+    date: 3rd June
+    duration: 24 min 34 sec
+-
+    athlete_id: athlete_11
+    date: 3rd June
+    duration: 26 min 37 sec
+-
+    athlete_id: athlete_18
+    date: 3rd June
+    duration: 28 min 40 sec
+-
+    athlete_id: athlete_10
+    date: 3rd June
+    duration: 22 min 15 sec
+-
+    athlete_id: athlete_3
+    date: 3rd June
+    duration: 25 min 59 sec
