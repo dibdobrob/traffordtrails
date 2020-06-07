@@ -4,6 +4,22 @@ athlete_summary:
 
 -
     order: 1
+    athlete: Phil Jackson
+    club: Independent
+    athlete_id: athlete_10
+    best_time: 22 min 14 sec
+    run_count: 5
+    points: 27
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 17
+    time_points: 2
+    daily_double: 4
+-
+    order: 2
     athlete: Jess Laffly
     club: Independent
     athlete_id: athlete_11
@@ -19,9 +35,9 @@ athlete_summary:
     time_points: 2
     daily_double: 2
 -
-    order: 2
+    order: 3
     athlete: Trevor Holliday 
-    club: Run The Joules
+    club: Run the Joules
     athlete_id: athlete_9
     best_time: 21 min 28 sec
     run_count: 4
@@ -35,7 +51,23 @@ athlete_summary:
     time_points: 2
     daily_double: 2
 -
-    order: 3
+    order: 4
+    athlete: Scott Damerum
+    club: Dragons Running Club (Sale)
+    athlete_id: athlete_8
+    best_time: 28 min 7 sec
+    run_count: 4
+    points: 24
+    water: 1
+    early: 1
+    2percent: 0
+    250ascent: 2
+    selfie: 3
+    run_points: 14
+    time_points: 1
+    daily_double: 2
+-
+    order: 5
     athlete: Jackie Cordingley
     club: Sale Harriers
     athlete_id: athlete_16
@@ -51,7 +83,7 @@ athlete_summary:
     time_points: 1
     daily_double: 4
 -
-    order: 4
+    order: 6
     athlete: Samantha Saunders-Rose
     club: Dragons Running Club (Sale)
     athlete_id: athlete_26
@@ -67,55 +99,71 @@ athlete_summary:
     time_points: 1
     daily_double: 4
 -
-    order: 5
-    athlete: Scott Damerum
-    club: Dragons Running Club (Sale)
-    athlete_id: athlete_8
-    best_time: 28 min 24 sec
-    run_count: 3
-    points: 21
-    water: 1
-    early: 1
-    2percent: 0
-    250ascent: 2
-    selfie: 3
-    run_points: 11
-    time_points: 1
-    daily_double: 2
--
-    order: 6
-    athlete: Phil Jackson
-    club: Independent
-    athlete_id: athlete_10
-    best_time: 22 min 15 sec
-    run_count: 3
-    points: 19
-    water: 1
-    early: 0
-    2percent: 0
-    250ascent: 0
-    selfie: 3
-    run_points: 11
-    time_points: 2
-    daily_double: 2
--
     order: 7
     athlete: Melanie
-    club: Sale harriers 
+    club: Sale Harriers
     athlete_id: athlete_6
     best_time: 22 min 6 sec
-    run_count: 4
-    points: 19
+    run_count: 5
+    points: 22
     water: 1
     early: 0
     2percent: 0
     250ascent: 0
     selfie: 0
-    run_points: 14
+    run_points: 17
     time_points: 2
     daily_double: 2
 -
     order: 8
+    athlete: Brian Bradshaw
+    club: Dragons Running Club (Sale)
+    athlete_id: athlete_21
+    best_time: 22 min 6 sec
+    run_count: 5
+    points: 22
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 17
+    time_points: 2
+    daily_double: 2
+-
+    order: 9
+    athlete: Jane Damerum 
+    club: Dragons Running Club (Sale)
+    athlete_id: athlete_2
+    best_time: 28 min 8 sec
+    run_count: 4
+    points: 22
+    water: 1
+    early: 1
+    2percent: 0
+    250ascent: 2
+    selfie: 3
+    run_points: 14
+    time_points: 1
+    daily_double: 0
+-
+    order: 10
+    athlete: Joanne  Healy
+    club: Dragons Running Club (Sale)
+    athlete_id: athlete_3
+    best_time: 24 min 8 sec
+    run_count: 4
+    points: 20
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 3
+    run_points: 14
+    time_points: 2
+    daily_double: 0
+-
+    order: 11
     athlete: Frank Cordingley
     club: Sale Harriers
     athlete_id: athlete_22
@@ -131,7 +179,7 @@ athlete_summary:
     time_points: 1
     daily_double: 2
 -
-    order: 9
+    order: 12
     athlete: Rob Wadsworth
     club: Dragons Running Club (Sale)
     athlete_id: athlete_1
@@ -147,23 +195,7 @@ athlete_summary:
     time_points: 2
     daily_double: 0
 -
-    order: 10
-    athlete: Joanne  Healy
-    club: Dragons Running Club (Sale)
-    athlete_id: athlete_3
-    best_time: 24 min 8 sec
-    run_count: 3
-    points: 17
-    water: 1
-    early: 0
-    2percent: 0
-    250ascent: 0
-    selfie: 3
-    run_points: 11
-    time_points: 2
-    daily_double: 0
--
-    order: 11
+    order: 13
     athlete: Andy Blackburn
     club: Run the Joules
     athlete_id: athlete_13
@@ -179,15 +211,15 @@ athlete_summary:
     time_points: 1
     daily_double: 2
 -
-    order: 12
-    athlete: Jane Damerum 
-    club: Dragons Running Club (Sale)
-    athlete_id: athlete_2
-    best_time: 28 min 8 sec
+    order: 14
+    athlete: Zoe Coombe
+    club: Run the Joules Sale Dragons
+    athlete_id: athlete_28
+    best_time: 25 min 10 sec
     run_count: 3
-    points: 17
+    points: 16
     water: 1
-    early: 1
+    early: 0
     2percent: 0
     250ascent: 0
     selfie: 3
@@ -195,7 +227,7 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 13
+    order: 15
     athlete: Anne Kelly
     club: Dragons Running Club (Sale)
     athlete_id: athlete_4
@@ -211,7 +243,7 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 14
+    order: 16
     athlete: Jo Clarke
     club: MileShy
     athlete_id: athlete_18
@@ -227,9 +259,9 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 15
+    order: 17
     athlete: Lou Armstrong
-    club: Run The Joules
+    club: Run the Joules
     athlete_id: athlete_5
     best_time: 24 min 1 sec
     run_count: 2
@@ -243,23 +275,23 @@ athlete_summary:
     time_points: 2
     daily_double: 0
 -
-    order: 16
-    athlete: Zoe Coombe
-    club: Run the Joules Sale Dragons
-    athlete_id: athlete_28
-    best_time: 25 min 10 sec
-    run_count: 2
-    points: 13
+    order: 18
+    athlete: Andy Land
+    club: Dragons Running Club (Sale)
+    athlete_id: athlete_14
+    best_time: 21 min 16 sec
+    run_count: 3
+    points: 14
     water: 1
     early: 0
     2percent: 0
     250ascent: 0
-    selfie: 3
-    run_points: 8
-    time_points: 1
+    selfie: 0
+    run_points: 11
+    time_points: 2
     daily_double: 0
 -
-    order: 17
+    order: 19
     athlete: Jen Simpson
     club: Dragons Running Club (Sale)
     athlete_id: athlete_12
@@ -275,7 +307,7 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 18
+    order: 20
     athlete: Sarah Thomas
     club: Run the Joules
     athlete_id: athlete_19
@@ -291,23 +323,23 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 19
-    athlete: Andy Land
-    club: Dragons Running Club (Sale)
-    athlete_id: athlete_14
-    best_time: 21 min 16 sec
+    order: 21
+    athlete: Rebecca Foley
+    club: Run the Joules
+    athlete_id: athlete_20
+    best_time: 30 min 34 sec
     run_count: 2
-    points: 11
+    points: 12
     water: 1
     early: 0
     2percent: 0
     250ascent: 0
-    selfie: 0
+    selfie: 3
     run_points: 8
-    time_points: 2
+    time_points: 0
     daily_double: 0
 -
-    order: 20
+    order: 22
     athlete: Sara Wadsworth
     club: Independent
     athlete_id: athlete_7
@@ -323,7 +355,39 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 21
+    order: 23
+    athlete: Sharon Gibbs
+    club: Independent
+    athlete_id: athlete_17
+    best_time: 32 min 10 sec
+    run_count: 2
+    points: 10
+    water: 0
+    early: 0
+    2percent: 0
+    250ascent: 2
+    selfie: 0
+    run_points: 8
+    time_points: 0
+    daily_double: 0
+-
+    order: 24
+    athlete: Alan Lamb
+    club: Dragons Running Club (Sale)
+    athlete_id: athlete_30
+    best_time: 26 min 44 sec
+    run_count: 2
+    points: 9
+    water: 0
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    run_points: 8
+    time_points: 1
+    daily_double: 0
+-
+    order: 25
     athlete: Fiona Roberts
     club: Chorlton Runners
     athlete_id: athlete_15
@@ -339,39 +403,7 @@ athlete_summary:
     time_points: 0
     daily_double: 0
 -
-    order: 22
-    athlete: Rebecca Foley
-    club: Run The Joules
-    athlete_id: athlete_20
-    best_time: 30 min 51 sec
-    run_count: 1
-    points: 9
-    water: 1
-    early: 0
-    2percent: 0
-    250ascent: 0
-    selfie: 3
-    run_points: 5
-    time_points: 0
-    daily_double: 0
--
-    order: 23
-    athlete: Brian Bradshaw
-    club: Dragons Running Club (Sale)
-    athlete_id: athlete_21
-    best_time: 38 min 55 sec
-    run_count: 2
-    points: 9
-    water: 1
-    early: 0
-    2percent: 0
-    250ascent: 0
-    selfie: 0
-    run_points: 8
-    time_points: 0
-    daily_double: 0
--
-    order: 24
+    order: 26
     athlete: Richard Healy
     club: Dragons Running Club (Sale)
     athlete_id: athlete_29
@@ -387,7 +419,7 @@ athlete_summary:
     time_points: 2
     daily_double: 0
 -
-    order: 25
+    order: 27
     athlete: Mr Spin
     club: Independent
     athlete_id: athlete_27
@@ -403,7 +435,7 @@ athlete_summary:
     time_points: 2
     daily_double: 0
 -
-    order: 26
+    order: 28
     athlete: Oli Irlam
     club: Independent
     athlete_id: athlete_25
@@ -419,25 +451,9 @@ athlete_summary:
     time_points: 1
     daily_double: 0
 -
-    order: 27
-    athlete: Sharon Gibbs
-    club: Unaffiliated 
-    athlete_id: athlete_17
-    best_time: 32 min 10 sec
-    run_count: 1
-    points: 7
-    water: 0
-    early: 0
-    2percent: 0
-    250ascent: 2
-    selfie: 0
-    run_points: 5
-    time_points: 0
-    daily_double: 0
--
-    order: 28
+    order: 29
     athlete: Janette Crump 
-    club: Mileshyclub 
+    club: MileShy
     athlete_id: athlete_23
     best_time: 79 min 34 sec
     run_count: 1
@@ -813,6 +829,81 @@ runs:
     athlete: Richard Healy
     date: 5th June
     duration: 21 min 28 sec
+-
+    athlete_id: athlete_3
+    athlete: Joanne Healy
+    date: 6th June
+    duration: 25 min 53 sec
+-
+    athlete_id: athlete_10
+    athlete: Phil Jackson
+    date: 6th June
+    duration: 23 min 14 sec
+-
+    athlete_id: athlete_10
+    athlete: Phil Jackson
+    date: 6th June
+    duration: 24 min 08 sec
+-
+    athlete_id: athlete_2
+    athlete: Jane Damerum 
+    date: 6th June
+    duration: 33 min 07 sec
+-
+    athlete_id: athlete_28
+    athlete: Zoe Coombe 
+    date: 6th June
+    duration: 25 min 25 sec
+-
+    athlete_id: athlete_30
+    athlete: Alan Lamb
+    date: 4th June
+    duration: 26 min 44 sec
+-
+    athlete_id: athlete_30
+    athlete: Alan Lamb
+    date: 6th June
+    duration: 30 min 53 sec
+-
+    athlete_id: athlete_20
+    athlete: Rebecca Foley
+    date: 6th June
+    duration: 31 min 34 sec
+-
+    athlete_id: athlete_14
+    athlete: Andy Land
+    date: 6th June
+    duration: 23 min 28 sec
+-
+    athlete_id: athlete_6
+    athlete: Melanie
+    date: 6th June
+    duration: 25 min 12 sec
+-
+    athlete_id: athlete_17
+    athlete: Sharon Gibbs
+    date: 6th June
+    duration: 32 min 11 sec
+-
+    athlete_id: athlete_8
+    athlete: Scott Damerum
+    date: 6th June
+    duration: 32 min 7 sec
+-
+    athlete_id: athlete_21
+    athlete: brian bradshaw
+    date: 5th June
+    duration: 22 min 31 sec
+-
+    athlete_id: athlete_21
+    athlete: Brian Bradshaw
+    date: 6th June
+    duration: 26 min 6 sec
+-
+    athlete_id: athlete_21
+    athlete: Brian Bradshaw
+    date: 6th June
+    duration: 26 min 6 sec
 -
     athlete_id: athlete_7
     athlete: Sara Wadsworth
