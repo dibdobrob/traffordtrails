@@ -8,7 +8,7 @@ postref: results
 
 ##### 2020 League Table
 
-[2019 Results]({{ site.baseurl }}/league_results/)
+[2020 League Table]({{ site.baseurl }}/league_results/)
 
 ##### Combined Results
 
