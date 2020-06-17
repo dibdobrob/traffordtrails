@@ -9,13 +9,14 @@ athlete_summary:
     athlete_id: athlete_10
     best_time: 22 min 10 sec
     run_count: 23
-    points: 102
+    points: 107
     water: 1
     early: 0
     2percent: 0
     250ascent: 0
     selfie: 3
     animal: 5
+    friend: 5
     run_points: 71
     time_points: 2
     daily_double: 20
@@ -26,13 +27,14 @@ athlete_summary:
     athlete_id: athlete_26
     best_time: 25 min 13 sec
     run_count: 16
-    points: 65
+    points: 70
     water: 1
     early: 1
     2percent: 0
     250ascent: 0
     selfie: 3
     animal: 5
+    friend: 5
     run_points: 50
     time_points: 1
     daily_double: 4
@@ -50,11 +52,30 @@ athlete_summary:
     250ascent: 2
     selfie: 3
     animal: 5
+    friend: 0
     run_points: 50
     time_points: 1
     daily_double: 2
 -
     order: 4
+    athlete: Frank Cordingley
+    club: Sale Harriers
+    athlete_id: athlete_22
+    best_time: 22 min 16 sec
+    run_count: 15
+    points: 61
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 0
+    selfie: 0
+    animal: 0
+    friend: 5
+    run_points: 47
+    time_points: 2
+    daily_double: 6
+-
+    order: 5
     athlete: Jess Laffly
     club: Independent
     athlete_id: athlete_11
@@ -67,11 +88,12 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 50
     time_points: 2
     daily_double: 4
 -
-    order: 5
+    order: 6
     athlete: Scott Damerum
     club: Dragons Running Club (Sale)
     athlete_id: athlete_8
@@ -84,11 +106,12 @@ athlete_summary:
     250ascent: 2
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 47
     time_points: 1
     daily_double: 4
 -
-    order: 6
+    order: 8
     athlete: Brian Bradshaw
     club: Dragons Running Club (Sale)
     athlete_id: athlete_21
@@ -101,16 +124,17 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 50
     time_points: 2
     daily_double: 2
 -
-    order: 8
-    athlete: Frank Cordingley
+    order: 9
+    athlete: Jackie Cordingley
     club: Sale Harriers
-    athlete_id: athlete_22
-    best_time: 22 min 16 sec
-    run_count: 15
+    athlete_id: athlete_16
+    best_time: 23 min 14 sec
+    run_count: 14
     points: 56
     water: 1
     early: 0
@@ -118,11 +142,12 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
-    run_points: 47
+    friend: 5
+    run_points: 44
     time_points: 2
-    daily_double: 6
+    daily_double: 4
 -
-    order: 9
+    order: 7
     athlete: Melanie
     club: Sale Harriers
     athlete_id: athlete_6
@@ -135,28 +160,30 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
-    run_points: 44
-    time_points: 2
-    daily_double: 4
--
-    order: 7
-    athlete: Jackie Cordingley
-    club: Sale Harriers
-    athlete_id: athlete_16
-    best_time: 23 min 14 sec
-    run_count: 14
-    points: 51
-    water: 1
-    early: 0
-    2percent: 0
-    250ascent: 0
-    selfie: 0
-    animal: 0
+    friend: 0
     run_points: 44
     time_points: 2
     daily_double: 4
 -
     order: 10
+    athlete: Jo Clarke
+    club: MileShy
+    athlete_id: athlete_18
+    best_time: 27 min 13 sec
+    run_count: 12
+    points: 52
+    water: 1
+    early: 0
+    2percent: 0
+    250ascent: 2
+    selfie: 3
+    animal: 0
+    friend: 5
+    run_points: 38
+    time_points: 1
+    daily_double: 2
+-
+    order: 11
     athlete: Trevor Holliday 
     club: Run the Joules
     athlete_id: athlete_9
@@ -169,26 +196,10 @@ athlete_summary:
     250ascent: 2
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 38
     time_points: 2
     daily_double: 4
--
-    order: 11
-    athlete: Jo Clarke
-    club: MileShy
-    athlete_id: athlete_18
-    best_time: 27 min 13 sec
-    run_count: 12
-    points: 47
-    water: 1
-    early: 0
-    2percent: 0
-    250ascent: 2
-    selfie: 3
-    animal: 0
-    run_points: 38
-    time_points: 1
-    daily_double: 2
 -
     order: 14
     athlete: Joanne  Healy
@@ -203,6 +214,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 35
     time_points: 2
     daily_double: 0
@@ -220,6 +232,7 @@ athlete_summary:
     250ascent: 2
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 29
     time_points: 1
     daily_double: 2
@@ -237,6 +250,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 29
     time_points: 1
     daily_double: 2
@@ -254,6 +268,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 29
     time_points: 3
     daily_double: 0
@@ -271,6 +286,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 29
     time_points: 1
     daily_double: 2
@@ -281,13 +297,14 @@ athlete_summary:
     athlete_id: athlete_12
     best_time: 27 min 11 sec
     run_count: 7
-    points: 29
+    points: 34
     water: 1
     early: 1
     2percent: 0
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 5
     run_points: 23
     time_points: 1
     daily_double: 0
@@ -305,6 +322,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 20
     time_points: 2
     daily_double: 2
@@ -322,13 +340,14 @@ athlete_summary:
     250ascent: 2
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 17
     time_points: 2
     daily_double: 0
 -
     order: 21
     athlete: Jo Brailsford
-    club: Dragons Running Club (Sale)
+    club: Dragons Running Club
     athlete_id: athlete_31
     best_time: 21 min 3 sec
     run_count: 4
@@ -339,6 +358,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 14
     time_points: 2
     daily_double: 2
@@ -356,6 +376,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 17
     time_points: 1
     daily_double: 2
@@ -373,6 +394,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 11
     time_points: 1
     daily_double: 0
@@ -390,6 +412,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 2
     daily_double: 2
@@ -407,6 +430,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 14
     time_points: 1
     daily_double: 0
@@ -424,6 +448,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 14
     time_points: 1
     daily_double: 0
@@ -441,6 +466,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 2
     daily_double: 0
@@ -458,6 +484,7 @@ athlete_summary:
     250ascent: 0
     selfie: 3
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 1
     daily_double: 0
@@ -475,6 +502,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 11
     time_points: 1
     daily_double: 0
@@ -492,6 +520,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 2
     daily_double: 0
@@ -509,6 +538,7 @@ athlete_summary:
     250ascent: 2
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 0
     daily_double: 0
@@ -526,13 +556,14 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 0
     daily_double: 0
 -
     order: 33
     athlete: Rob Macdonald 
-    club: Dragons Running Club (Sale)
+    club: Dragons (Sale) Running Club
     athlete_id: athlete_33
     best_time: 33 min 55 sec
     run_count: 2
@@ -543,6 +574,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 8
     time_points: 0
     daily_double: 0
@@ -560,6 +592,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 2
     daily_double: 0
@@ -577,6 +610,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 1
     daily_double: 0
@@ -594,13 +628,14 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 1
     daily_double: 0
 -
     order: 38
     athlete: Mary Waudby
-    club: Dragons Running Club (Sale)
+    club: Dragons (Sale)
     athlete_id: athlete_32
     best_time: 32 min 15 sec
     run_count: 1
@@ -611,6 +646,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 0
     daily_double: 0
@@ -628,13 +664,14 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 0
     daily_double: 0
 -
     order: 42
     athlete: Lisa Bradley
-    club: MileShy
+    club: MileShyClub
     athlete_id: athlete_35
     best_time: 37 min 34 sec
     run_count: 1
@@ -645,13 +682,14 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 0
     daily_double: 0
 -
     order: 44
     athlete: Sasha
-    club: MileShy
+    club: Mileshy 
     athlete_id: athlete_40
     best_time: 30 min 48 sec
     run_count: 1
@@ -662,13 +700,14 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 0
     daily_double: 0
 -
     order: 46
     athlete: Sally M
-    club: MileShy
+    club: MSC
     athlete_id: athlete_39
     best_time: 34 min 52 sec
     run_count: 1
@@ -679,6 +718,7 @@ athlete_summary:
     250ascent: 0
     selfie: 0
     animal: 0
+    friend: 0
     run_points: 5
     time_points: 0
     daily_double: 0
